@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T16:21:23.978212+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2025-10-14T17:18:59.148316+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -64,6 +64,20 @@
           "time_info": "[00时19分 ~ 09时07分]"
         },
         {
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 17时18分]"
+        },
+        {
           "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
           "url": "https://news.ifeng.com/c/8nQEVWLCTq0",
           "source": "凤凰网",
@@ -76,18 +90,15 @@
           "time_info": "[00时19分 ~ 09时07分]"
         },
         {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
           "ranks": [
-            28,
-            5,
-            7,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 17时18分]"
         },
         {
           "title": "内塔尼亚胡向特朗普赠送金鸽子雕塑",
@@ -135,8 +146,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 16时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 17时18分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -149,11 +160,12 @@
             19,
             18,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 16时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 17时18分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -164,11 +176,12 @@
             20,
             18,
             19,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时02分 ~ 17时18分]"
         },
         {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
@@ -192,17 +205,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 16时21分]"
         },
         {
           "title": "特朗普马克龙上演26秒掰手腕式握手",
@@ -268,17 +270,6 @@
           "time_info": "00时19分"
         },
         {
-          "title": "特朗普为何要保住对华贸易",
-          "url": "https://www.toutiao.com/trending/7560960551040323135/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：将与美国总统特朗普讨论防空和乌克兰的远程能力问题。",
           "url": "https://flash.jin10.com/detail/20251014000030649800",
           "source": "金十数据",
@@ -299,6 +290,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 17时18分]"
         },
         {
           "title": "和平峰会特朗普挨个点名各国领导人",
@@ -338,6 +341,18 @@
           "time_info": "[03时14分 ~ 04时19分]"
         },
         {
+          "title": "特朗普为何要保住对华贸易",
+          "url": "https://www.toutiao.com/trending/7560960551040323135/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时18分]"
+        },
+        {
           "title": "市场消息：美国白宫发布“特朗普持久和平与繁荣宣言”文本。",
           "url": "https://flash.jin10.com/detail/20251014044414340800",
           "source": "金十数据",
@@ -360,18 +375,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时06分 ~ 11时03分]"
-        },
-        {
-          "title": "特朗普马克龙26秒“掰手腕式握手”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 16时21分]"
         },
         {
           "title": "唐驳虎：特朗普的口风越来越软",
@@ -579,7 +582,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -604,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普抱怨时代周刊封面图史上最差",
+          "url": "https://wallstreetcn.com/livenews/2987394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国总统特朗普：未来不会被过去的斗争所主宰。",
@@ -785,19 +799,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 16时21分]"
-        },
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
           "url": "https://wallstreetcn.com/articles/3757049",
@@ -819,6 +822,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时06分 ~ 14时25分]"
+        },
+        {
+          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时02分 ~ 17时18分]"
         },
         {
           "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
@@ -906,7 +921,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -978,7 +993,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1003,6 +1018,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "美股稀土股盘前普涨，USA Rare Earth涨超11%，MP Materials涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/2987376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "纳微半导体美股盘前大涨近25%，此前公司宣布为英伟达800伏直流AI工厂提供新型芯片。",
+          "url": "https://wallstreetcn.com/livenews/2987373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "美股稀土概念股盘前普涨，Critical Metals(CRPL.O)大涨38%，USA Rare Earth(USAR.O)涨超11%，MP Materials(MP.N)涨超7%。",
+          "url": "https://flash.jin10.com/detail/20251014161925623800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     },
@@ -1018,11 +1066,12 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时02分 ~ 17时18分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -1034,8 +1083,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时15分 ~ 15时18分]"
+          "appearance_count": 14,
+          "time_info": "[07时15分 ~ 17时18分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -1205,11 +1254,12 @@
           "source": "微博",
           "ranks": [
             2,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 17时18分]"
         },
         {
           "title": "金价疯狂涨势还能持续多久",
@@ -1373,7 +1423,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
