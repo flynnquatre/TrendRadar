@@ -1,6 +1,3 @@
-DeepSeek
-梁文锋
-
 谷歌
 google
 gemini
@@ -16,6 +13,15 @@ openai
 美债
 
 美股
+铜矿
+NAK
+BITF
+SQQQ
+NVDY
+MSOX
+TSLY
+BTBT
++美股
 
 美元
 +指数
@@ -24,17 +30,3 @@ openai
 
 伊朗
 
-艺术
-绘画
-雕塑
-音乐
-建筑
-旅行
-艺术家
-展览
-+作品
-
-
-哲学
-
-文学
