@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T21:31:25.813290+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2025-11-05T22:18:33.603210+08:00",
+  "total_titles_processed": 1969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 58,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 21时31分]"
+          "appearance_count": 15,
+          "time_info": "[11时09分 ~ 22时18分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时24分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 22时18分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -113,7 +113,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -149,6 +149,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默和众议院少数党领袖杰弗瑞斯要求与特朗普举行两党会晤。",
+          "url": "https://flash.jin10.com/detail/20251105220952184800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国（国会山）民主党致函总统特朗普，要求会面。 参议院民主党领导人Schumer和众议院民主党领导人Hakeem Jeffries要求与特朗普进行跨党派会面。 这两名民主党领导人希望结束10月1日以来的政府关门问题。",
+          "url": "https://wallstreetcn.com/livenews/2999953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "金十数据整理：特朗普胜选一周年，在市场掀起过哪些波澜？",
+          "url": "https://flash.jin10.com/detail/20251105220524399800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "为结束政府“停摆” 特朗普再要求参议院终止“冗长辩论”",
+          "url": "https://wallstreetcn.com/livenews/2999952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "白宫降半旗悼念切尼 特朗普沉默",
@@ -508,6 +552,28 @@
           "time_info": "15时17分"
         },
         {
+          "title": "特朗普告诫共和党人：不终止冗长辩论规则是错误之举。",
+          "url": "https://wallstreetcn.com/livenews/2999939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "俄罗斯情报部门负责人纳雷什金：（就特朗普有关核试验的声明表示）美国官员拒绝直接讨论此事。",
+          "url": "https://flash.jin10.com/detail/20251105215937400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
           "url": "https://www.zhihu.com/question/1969362121386100394",
           "source": "知乎",
@@ -563,6 +629,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。 股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
           "url": "https://flash.jin10.com/detail/20251105024546546800",
           "source": "金十数据",
@@ -585,6 +662,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "俄罗斯总统普京：（就美国总统特朗普有关核试验的声明表示）这是一个严重的问题。",
+          "url": "https://flash.jin10.com/detail/20251105215226127800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "奥巴马为何怼特朗普政府“无法无天”",
           "url": "https://www.toutiao.com/trending/7568801860920806922/",
           "source": "今日头条",
@@ -599,7 +687,7 @@
     },
     {
       "keyword_group": "美股 铜矿 NAK BITF SQQQ NVDY MSOX TSLY BTBT",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -609,8 +697,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时13分 ~ 21时31分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 22时18分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -772,6 +860,17 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时18分]"
+        },
+        {
           "title": "Pinterest美股盘后下跌15%，该公司业绩欠佳，给出的指引也疲软。",
           "url": "https://wallstreetcn.com/livenews/2999419",
           "source": "华尔街见闻-快讯",
@@ -909,17 +1008,6 @@
           "time_info": "20时34分"
         },
         {
-          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
-          "url": "https://wallstreetcn.com/articles/3758685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
           "title": "金十提示：美股和日韩股市暴跌前，高盛和摩根士丹利多个高管发出高达15%的回调空间警告。",
           "url": "https://flash.jin10.com/detail/20251105085206088800",
           "source": "金十数据",
@@ -931,6 +1019,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美股股指期货走低，纳指期货跌0.62%，标普500指数期货跌0.4%，道指期货微跌0.08%。",
           "url": "https://flash.jin10.com/detail/20251105084922100800",
           "source": "金十数据",
@@ -940,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "诺和诺德第三季度销售额749.8亿丹麦克朗，预估766.8亿丹麦克朗。 第三季度净利润200.1亿丹麦克朗，预估208亿丹麦克朗。 第三季度EBIT 236.8亿丹麦克朗，预估256.1亿丹麦克朗。 第三季度GLP-1药物销售额367.4亿丹麦克朗，预估372.7亿丹麦克朗。 第三季度Wegovy销售额203.5亿丹麦克朗，预估209.4亿丹麦克朗。 诺和诺德预计全财年销售额（按固定汇率计算）增长8%-11%，此前预计增长8%-14%。 诺和诺德预计2025年资本支出为约600亿丹麦克朗，此前预计为650亿丹麦克朗。 诺和诺德美股夜盘跌超2%。",
@@ -970,7 +1080,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -995,6 +1105,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普呼吁结束政府停摆 并直言美股屡创新高仅是开端",
+          "url": "https://flash.jin10.com/detail/20251105214713212800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-05）",
+          "url": "https://flash.jin10.com/detail/20251105214658539800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 16时24分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
+          "url": "https://flash.jin10.com/detail/20251105010853039800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时14分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布“捕光者”项目（Project Suncatcher），这是我们一项全新的研究型登月项目，旨在有朝一日实现机器学习在太空中的规模化应用。",
+          "url": "https://flash.jin10.com/detail/20251105010822293800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时14分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
+          "url": "https://flash.jin10.com/detail/20251105000406065800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时23分]"
+        },
+        {
+          "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
+          "url": "https://wallstreetcn.com/livenews/2999380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
+          "url": "https://flash.jin10.com/detail/20251105011112408800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：基于地标的导航功能现已在美国的安卓和iOS设备上推出。",
+          "url": "https://flash.jin10.com/detail/20251105220518450800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
@@ -1102,11 +1328,12 @@
           "url": "https://wallstreetcn.com/livenews/2999928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时18分]"
         },
         {
           "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
@@ -1167,89 +1394,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 16时24分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
-          "url": "https://flash.jin10.com/detail/20251105010853039800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时14分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布“捕光者”项目（Project Suncatcher），这是我们一项全新的研究型登月项目，旨在有朝一日实现机器学习在太空中的规模化应用。",
-          "url": "https://flash.jin10.com/detail/20251105010822293800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时14分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
-          "url": "https://flash.jin10.com/detail/20251105000406065800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
-        },
-        {
-          "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
-          "url": "https://wallstreetcn.com/livenews/2999380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
-          "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
-          "url": "https://flash.jin10.com/detail/20251105011112408800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
@@ -1276,6 +1420,18 @@
           "time_info": "05时16分"
         },
         {
+          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968706446079299701",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 22时18分]"
+        },
+        {
           "title": "美元走强金价又跌了",
           "url": "https://www.douyin.com/hot/2295060",
           "source": "抖音",
@@ -1285,18 +1441,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时24分 ~ 18时19分]"
-        },
-        {
-          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968706446079299701",
-          "source": "知乎",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 11时09分]"
         },
         {
           "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
@@ -1325,7 +1469,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
@@ -1337,6 +1481,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时14分 ~ 21时31分]"
+        },
+        {
+          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
@@ -1364,7 +1519,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "法国总统府：法国总统马克龙要求伊朗总统释放全部法国公民。",
@@ -1399,6 +1554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://wallstreetcn.com/livenews/2999940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     }
