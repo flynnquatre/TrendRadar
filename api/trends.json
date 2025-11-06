@@ -1,23 +1,36 @@
 {
-  "generated_at": "2025-11-06T17:18:15.246815+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2025-11-06T18:19:15.511113+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时16分 ~ 18时19分]"
+        },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
           "url": "https://wallstreetcn.com/articles/3758755",
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 17时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 18时19分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -32,16 +45,16 @@
           "time_info": "[00时21分 ~ 12时23分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时16分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 18时19分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -93,18 +106,6 @@
           "time_info": "[11时13分 ~ 14时24分]"
         },
         {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 17时18分]"
-        },
-        {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
           "url": "https://wallstreetcn.com/articles/3758724",
           "source": "华尔街见闻",
@@ -116,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[05时14分 ~ 17时18分]"
+          "appearance_count": 20,
+          "time_info": "[05时14分 ~ 18时19分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -370,6 +371,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "多家公司的代理律师Katyal在美国最高法院听证会上表示：（总统特朗普挑起的）关税就是税收，而那本来应该是（宪法赋予）国会山的责任。",
@@ -687,7 +699,7 @@
     },
     {
       "keyword_group": "美股 铜矿 NAK BITF SQQQ NVDY MSOX TSLY BTBT",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -777,6 +789,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时23分 ~ 05时15分]"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
@@ -942,7 +965,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
@@ -1075,6 +1098,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
+          "url": "https://flash.jin10.com/detail/20251106180054572800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
           "url": "https://flash.jin10.com/detail/20251106111258842800",
           "source": "金十数据",
@@ -1084,6 +1118,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
+          "url": "https://flash.jin10.com/detail/20251106174631511800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
+          "url": "https://flash.jin10.com/detail/20251106174536782800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -1223,17 +1279,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 17时18分]"
-        },
-        {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -1244,6 +1289,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 06时15分]"
+        },
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 18时19分]"
         },
         {
           "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
