@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T18:18:25.244740+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2025-11-07T19:15:52.770858+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -30,6 +30,18 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
           "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
           "source": "凤凰网",
@@ -42,18 +54,6 @@
           "time_info": "[11时09分 ~ 17时17分]"
         },
         {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普：美国人正为关税付出代价",
           "url": "https://www.toutiao.com/trending/7569021464603901971/",
           "source": "今日头条",
@@ -63,11 +63,12 @@
             20,
             9,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时09分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 19时15分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -112,11 +113,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 19时15分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
@@ -163,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-07）",
+          "url": "https://flash.jin10.com/detail/20251107191347439800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普官宣降价减肥药企高管当场晕倒",
@@ -606,6 +619,17 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106235000000800",
           "source": "金十数据",
@@ -760,6 +784,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "美国总统特朗普：在未来三年内，乌兹别克斯坦将购买并投资近350亿美元，而在未来十年内，将超过1000亿美元，投资于美国的关键行业，包括关键矿产、航空、汽车零部件、基础设施、农业、能源与化工、信息技术等多个领域。",
           "url": "https://flash.jin10.com/detail/20251107102731934800",
           "source": "金十数据",
@@ -810,7 +845,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -920,7 +955,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1145,8 +1180,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时09分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 19时15分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1355,8 +1390,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时10分 ~ 19时15分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1456,8 +1491,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时35分 ~ 18时18分]"
+          "appearance_count": 17,
+          "time_info": "[06时35分 ~ 19时15分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
