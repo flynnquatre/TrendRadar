@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:15:15.554228+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2025-11-08T14:21:36.029587+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 14时21分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -69,6 +69,20 @@
           "time_info": "[00时17分 ~ 12时19分]"
         },
         {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 14时21分]"
+        },
+        {
           "title": "特朗普称佩洛西在股市“非法敛财”",
           "url": "https://flash.jin10.com/detail/20251107234753828800",
           "source": "金十数据",
@@ -78,19 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 13时15分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -113,11 +114,27 @@
           "ranks": [
             5,
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时21分]"
+        },
+        {
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12,
+            14,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时00分 ~ 14时21分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -192,20 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时16分]"
-        },
-        {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：希望继续在布达佩斯与俄罗斯总统普京会晤。",
@@ -610,6 +613,19 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时21分]"
+        },
+        {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -622,30 +638,18 @@
           "time_info": "[01时14分 ~ 06时15分]"
         },
         {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 13时15分]"
-        },
-        {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
           "ranks": [
             12,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 13时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 14时21分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -670,6 +674,21 @@
           "time_info": "01时14分"
         },
         {
+          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
+          "url": "https://flash.jin10.com/detail/20251108100037476800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17,
+            19,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时00分 ~ 14时21分]"
+        },
+        {
           "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
           "url": "https://wallstreetcn.com/livenews/3001428",
           "source": "华尔街见闻-快讯",
@@ -680,20 +699,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时08分]"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://flash.jin10.com/detail/20251108100037476800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 13时15分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -812,7 +817,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
@@ -827,6 +832,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时00分 ~ 13时15分]"
+        },
+        {
+          "title": "形势危急！伊朗总统：可能从德黑兰撤离",
+          "url": "https://news.ifeng.com/c/8o6zKd55xJa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
