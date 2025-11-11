@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T20:31:52.336824+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2025-11-11T21:29:13.725259+08:00",
+  "total_titles_processed": 1878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -29,8 +29,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时11分 ~ 20时31分]"
+          "appearance_count": 16,
+          "time_info": "[11时11分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时29分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -73,15 +84,27 @@
           "time_info": "[11时11分 ~ 13时17分]"
         },
         {
-          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
-          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
           "source": "凤凰网",
           "ranks": [
-            4
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时31分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 21时29分]"
+        },
+        {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时29分]"
         },
         {
           "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
@@ -94,18 +117,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时25分 ~ 17时18分]"
-        },
-        {
-          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
-          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 20时31分]"
         },
         {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
@@ -185,17 +196,6 @@
           "time_info": "01时15分"
         },
         {
-          "title": "空运持续混乱 特朗普喊话空管员：回来上班否则扣钱",
-          "url": "https://wallstreetcn.com/livenews/3002795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
           "title": "特朗普的“贸易战”收到了什么结果",
           "url": "https://www.toutiao.com/trending/7571084710177148454/",
           "source": "今日头条",
@@ -207,17 +207,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时19分]"
-        },
-        {
-          "title": "换了件“马甲”，他见上特朗普了(图)",
-          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时31分]"
         },
         {
           "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
@@ -281,6 +270,53 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "空运持续混乱 特朗普喊话空管员：回来上班否则扣钱",
+          "url": "https://wallstreetcn.com/livenews/3002795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
+          "title": "牛弹琴：特朗普又给美国最高法院施压",
+          "url": "https://www.toutiao.com/trending/7570354589443538971/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时29分]"
+        },
+        {
+          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普威胁起诉BBC 索赔10亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
           "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
           "url": "https://wallstreetcn.com/livenews/3002324",
           "source": "华尔街见闻-快讯",
@@ -291,18 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "牛弹琴：特朗普又给美国最高法院施压",
-          "url": "https://www.toutiao.com/trending/7570354589443538971/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "美国总统特朗普：在接下来的两到三周内，我们将推出新的空中交通管制系统。",
@@ -474,7 +498,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -567,17 +591,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
           "url": "https://wallstreetcn.com/livenews/3002244",
           "source": "华尔街见闻-快讯",
@@ -598,17 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "特朗普威胁起诉BBC 索赔10亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "美国总统特朗普：你们可以期待一些关于叙利亚的声明。",
@@ -686,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府继承了高物价水平。",
+          "url": "https://flash.jin10.com/detail/20251111204349700800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "美国总统特朗普：我们将向中低收入人群发放2000美元的补贴，这要归功于关税。",
@@ -950,7 +963,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -972,7 +985,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1090,11 +1103,12 @@
             7,
             5,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 20时31分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 21时29分]"
         },
         {
           "title": "金价涨超2% 创本月最大涨幅",
@@ -1199,7 +1213,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1226,11 +1240,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时29分]"
         },
         {
           "title": "科技股估值飙升带动软银Q3利润大涨，旗下基金清仓英伟达、追投OpenAI",
@@ -1458,7 +1473,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
