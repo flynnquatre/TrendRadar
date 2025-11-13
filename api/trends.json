@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T16:21:56.138811+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-11-13T17:19:12.475285+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时23分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 17时19分]"
+        },
+        {
+          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
+          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 17时19分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -33,20 +45,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时16分 ~ 16时21分]"
+          "appearance_count": 21,
+          "time_info": "[01时16分 ~ 17时19分]"
         },
         {
-          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
-          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -63,16 +75,16 @@
           "time_info": "[12时23分 ~ 15时16分]"
         },
         {
-          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
-          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
-          "source": "凤凰网",
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            5
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 17时19分]"
         },
         {
           "title": "瑞士商业代表团送特朗普金条和劳力士 或为换取低关税",
@@ -103,7 +115,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -133,18 +145,6 @@
           "time_info": "[03时14分 ~ 05时16分]"
         },
         {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时21分]"
-        },
-        {
           "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
           "url": "https://flash.jin10.com/detail/20251113030327873800",
           "source": "金十数据",
@@ -155,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
         },
         {
           "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
@@ -169,6 +180,17 @@
           "time_info": "[13时18分 ~ 14时25分]"
         },
         {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时19分]"
+        },
+        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普不会有第三季。",
           "url": "https://wallstreetcn.com/livenews/3003588",
           "source": "华尔街见闻-快讯",
@@ -179,17 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时18分]"
-        },
-        {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时21分]"
         },
         {
           "title": "白宫新闻秘书莱维特：一旦政府重新开门，特朗普愿意就医疗保健问题展开对话。",
@@ -628,17 +639,6 @@
           "time_info": "09时12分"
         },
         {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "以方证实特朗普要求赦免内塔尼亚胡",
           "url": "https://www.toutiao.com/trending/7571754555408203782/",
           "source": "今日头条",
@@ -666,6 +666,17 @@
       "keyword_group": "chatgpt openai",
       "match_count": 11,
       "titles": [
+        {
+          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时19分]"
+        },
         {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
@@ -700,17 +711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
-        },
-        {
-          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
