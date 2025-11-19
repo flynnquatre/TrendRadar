@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T11:09:16.906144+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-11-19T12:19:52.296766+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时09分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 12时19分]"
         },
         {
           "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多出席特朗普与沙特王储的晚宴。",
@@ -87,6 +87,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普：已确定下一任美联储主席人选",
+          "url": "https://www.cls.cn/detail/2204373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 12时19分]"
         },
         {
           "title": "美国总统特朗普：沙特被指定为“主要非北约盟友”（Major Non-NATO Ally）。",
@@ -174,19 +187,6 @@
           "time_info": "[07时29分 ~ 09时11分]"
         },
         {
-          "title": "特朗普：已确定下一任美联储主席人选",
-          "url": "https://www.cls.cn/detail/2204373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时09分]"
-        },
-        {
           "title": "美国总统特朗普结束在白宫的讲话。",
           "url": "https://flash.jin10.com/detail/20251119021212716800",
           "source": "金十数据",
@@ -209,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时19分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -259,17 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -520,6 +520,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普批准了一项重大国防销售方案，其中包括未来F-35战机的交付。",
           "url": "https://flash.jin10.com/detail/20251119063023835800",
           "source": "金十数据",
@@ -559,7 +570,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -666,7 +677,7 @@
     },
     {
       "keyword_group": "美股 铜矿 NAK BITF SQQQ NVDY MSOX TSLY BTBT",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -713,8 +724,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 11时09分]"
+          "appearance_count": 6,
+          "time_info": "[06时20分 ~ 12时19分]"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
@@ -741,6 +752,18 @@
           "time_info": "[06时20分 ~ 07时29分]"
         },
         {
+          "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
+          "url": "https://wallstreetcn.com/livenews/3006896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时19分]"
+        },
+        {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
           "url": "https://wallstreetcn.com/livenews/3006629",
           "source": "华尔街见闻-快讯",
@@ -751,17 +774,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
-          "url": "https://wallstreetcn.com/livenews/3006896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
         },
         {
           "title": "（美股）费城金银指数收涨1.18%，报292.90点。 纽约证交所ARCA金矿开采商指数收平，报2124.04点，北京时间22:30美股开盘之前跌至2110点下方，随后反弹至接近2140点的水平，之后出现V形反转——00:03曾跌至2093.40点刷新日低。",
@@ -828,6 +840,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251119110356903800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "金十图示：2025年11月18日（周二）美股热门股票行情一览（美股收盘）",
@@ -906,6 +929,17 @@
           "time_info": "[02时23分 ~ 09时11分]"
         },
         {
+          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
+          "url": "https://www.cls.cn/detail/2204346",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时19分]"
+        },
+        {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
           "url": "https://www.cls.cn/detail/2204017",
           "source": "财联社热门",
@@ -919,26 +953,16 @@
           "time_info": "[00时21分 ~ 07时29分]"
         },
         {
-          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
-          "url": "https://www.cls.cn/detail/2204346",
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
           "source": "财联社热门",
           "ranks": [
-            4
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时09分]"
-        },
-        {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
+          "time_info": "[11时08分 ~ 12时19分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -952,6 +976,18 @@
           "time_info": "09时11分"
         },
         {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时19分]"
+        },
+        {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
           "url": "https://wallstreetcn.com/articles/3759657",
           "source": "华尔街见闻",
@@ -960,8 +996,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时19分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时09分]"
+          "time_info": "[11时08分 ~ 12时19分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -975,17 +1023,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时19分]"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -1022,17 +1059,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
         },
         {
           "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
@@ -1141,7 +1167,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -1181,11 +1207,12 @@
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时19分]"
         }
       ]
     },
