@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T17:18:45.251073+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2025-11-27T18:18:37.153167+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,12 @@
             14,
             12,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 17时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 18时18分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -100,8 +101,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 18时18分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -114,8 +115,24 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 18时18分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7,
+            11,
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时08分 ~ 17时18分]"
+          "time_info": "[11时08分 ~ 18时18分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -130,21 +147,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            11,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 17时18分]"
         },
         {
           "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
@@ -293,6 +295,18 @@
           "time_info": "[11时08分 ~ 13时17分]"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时18分]"
+        },
+        {
           "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
           "url": "https://news.ifeng.com/c/8obT9y20KVI",
           "source": "凤凰网",
@@ -398,17 +412,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 11时08分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时18分]"
         },
         {
           "title": "特朗普称袭击国民警卫队是恐怖行为",
@@ -711,8 +714,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 17时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 18时18分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -739,6 +742,20 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 18时18分]"
+        },
+        {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
           "url": "https://wallstreetcn.com/articles/3760114",
           "source": "华尔街见闻",
@@ -749,30 +766,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 05时14分]"
-        },
-        {
-          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
-          "url": "https://wallstreetcn.com/livenews/3011463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 17时18分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -786,6 +779,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时15分 ~ 11时08分]"
+        },
+        {
+          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
+          "url": "https://wallstreetcn.com/livenews/3011463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -853,6 +858,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 18时18分]"
+        },
+        {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
           "url": "https://wallstreetcn.com/livenews/3011268",
           "source": "华尔街见闻-快讯",
@@ -863,23 +879,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时25分]"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 17时18分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年11月27日（周四）上海金午盘价为942.44元/克，较国际金价(946.08元/克)，低3.64元/克",
@@ -891,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "三菱日联：初请数据难以撼动降息前景 金价守稳高位",
+          "url": "https://flash.jin10.com/detail/20251127175027884800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
