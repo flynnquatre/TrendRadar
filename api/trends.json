@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T15:17:16.323887+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2025-11-28T16:22:48.708238+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 16时22分]"
         },
         {
           "title": "中方回应特朗普要求高市降低声调",
@@ -86,6 +87,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时08分 ~ 15时17分]"
+        },
+        {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时22分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -173,17 +186,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时09分 ~ 12时19分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
@@ -426,7 +428,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -437,7 +439,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -598,7 +600,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -629,8 +631,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 16时22分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
