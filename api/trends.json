@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:23:53.810032+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2025-11-30T22:14:44.326066+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时23分 ~ 21时23分]"
+          "appearance_count": 12,
+          "time_info": "[14时23分 ~ 22时14分]"
+        },
+        {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 22时14分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 21时23分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -191,22 +191,12 @@
           "ranks": [
             30,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 21时23分]"
-        },
-        {
-          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
-          "url": "https://flash.jin10.com/detail/20251130201511290800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 22时14分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -221,6 +211,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时16分 ~ 21时23分]"
+        },
+        {
+          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
+          "url": "https://flash.jin10.com/detail/20251130201511290800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时14分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -286,22 +288,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时14分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时14分]"
         }
       ]
     },
@@ -342,11 +346,12 @@
           "ranks": [
             4,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时14分]"
         },
         {
           "title": "严重干旱迫使伊朗大型水电站停止发电",
@@ -355,11 +360,12 @@
           "ranks": [
             5,
             13,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时14分]"
         },
         {
           "title": "伊朗萨汉德号军舰重新服役",
@@ -368,11 +374,12 @@
           "ranks": [
             7,
             15,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时14分]"
         }
       ]
     },
@@ -390,8 +397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 21时23分]"
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 22时14分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -411,8 +418,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时18分 ~ 21时23分]"
+          "appearance_count": 27,
+          "time_info": "[00时18分 ~ 22时14分]"
         }
       ]
     },
