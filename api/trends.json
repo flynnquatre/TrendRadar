@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T19:16:05.317973+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2025-12-03T20:34:05.357702+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 20时34分]"
+        },
+        {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时34分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -70,15 +81,58 @@
           "time_info": "[11时14分 ~ 16时23分]"
         },
         {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时34分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            1,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时34分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时34分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时34分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -96,55 +150,27 @@
           "time_info": "[07时14分 ~ 14时25分]"
         },
         {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            4,
+            12,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时34分]"
         },
         {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
           "ranks": [
-            14,
-            9,
-            1
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时34分]"
         },
         {
           "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
@@ -328,18 +354,6 @@
           "time_info": "[04时40分 ~ 05时16分]"
         },
         {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时16分]"
-        },
-        {
           "title": "美国总统特朗普：我的体检全部得了A。",
           "url": "https://flash.jin10.com/detail/20251203011020121800",
           "source": "金十数据",
@@ -412,15 +426,16 @@
           "time_info": "[04时40分 ~ 05时16分]"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://www.douyin.com/hot/2324828",
-          "source": "抖音",
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
           "ranks": [
-            25
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时16分]"
+          "time_info": "[19时15分 ~ 20时34分]"
         },
         {
           "title": "美国总统特朗普：三家大型航空公司竞标美国联邦航空管理局（FAA）空中交通管理系统的现代化项目。",
@@ -601,17 +616,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时40分]"
-        },
-        {
-          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
-          "url": "https://www.cls.cn/detail/2218431",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "美国总统特朗普重申对鲍威尔的批评，特朗普表示连摩根大通CEO戴蒙都说鲍威尔应该降低利率。",
@@ -1025,7 +1029,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1088,7 +1092,7 @@
     },
     {
       "keyword_group": "美股 铜矿 NAK BITF SQQQ NVDY MSOX TSLY BTBT",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -1099,8 +1103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 20时34分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -1245,6 +1249,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "梅西百货第三季度总收入49.1亿美元，预期47.5亿美元。 第三季度净销售额47.1亿美元，预估45.6亿美元。 第三季度经调整后每股收益9美分，市场预期每股亏损14美分。 梅西百货预计全财年经调整后每股收益2-2.2美元，此前预计1.7-2.05美元，市场预估1.99美元。 梅西百货预计全财年净销售额214.8-216.3亿美元，此前预计211.5-214.5亿美元。 梅西百货美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3014443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251203013047632800",
           "source": "金十数据",
@@ -1303,8 +1318,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 20时34分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -1321,6 +1336,20 @@
           "time_info": "[00时22分 ~ 11时14分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 20时34分]"
+        },
+        {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
@@ -1333,20 +1362,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 19时16分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1381,7 +1396,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1435,7 +1450,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -1456,7 +1471,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1491,7 +1506,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1502,7 +1517,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1513,7 +1528,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1524,9 +1539,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
@@ -1608,7 +1645,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
@@ -1620,8 +1657,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时25分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 20时34分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
@@ -1633,6 +1670,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "摩根大通：维持对黄金的多年看涨前景，预计到2026年，持续强劲的央行和投资者需求将推动金价升至每盎司5000美元。",
+          "url": "https://flash.jin10.com/detail/20251203201015420800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗议长：美国将自身要求强加于伊朗",
+          "url": "https://wallstreetcn.com/livenews/3014131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时16分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军将在波斯湾举行演习",
+          "url": "https://flash.jin10.com/detail/20251203201742766800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "伊朗议长：美国将自身要求强加于伊朗",
+          "url": "https://flash.jin10.com/detail/20251203111738618800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     },
@@ -1661,35 +1749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗议长：美国将自身要求强加于伊朗",
-          "url": "https://wallstreetcn.com/livenews/3014131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
-        },
-        {
-          "title": "伊朗议长：美国将自身要求强加于伊朗",
-          "url": "https://flash.jin10.com/detail/20251203111738618800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         }
       ]
     }
