@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T18:19:54.157991+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2025-12-04T19:16:52.393054+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时16分]"
         },
         {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
@@ -72,6 +72,20 @@
           "time_info": "[00时22分 ~ 13时16分]"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时16分]"
+        },
+        {
           "title": "中方回应特朗普签署涉台法案",
           "url": "https://www.douyin.com/hot/2325113",
           "source": "抖音",
@@ -96,20 +110,6 @@
           "time_info": "[00时22分 ~ 04时19分]"
         },
         {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
           "url": "https://www.cls.cn/detail/2219555",
           "source": "财联社热门",
@@ -119,8 +119,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -374,6 +374,17 @@
           "time_info": "[06时17分 ~ 07时14分]"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时16分]"
+        },
+        {
           "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
           "url": "https://flash.jin10.com/detail/20251204052449950800",
           "source": "金十数据",
@@ -493,15 +504,15 @@
           "time_info": "[13时16分 ~ 14时25分]"
         },
         {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204183019208800",
+          "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
