@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T11:24:15.261666+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-12-07T12:31:06.636871+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 12时31分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -142,11 +143,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 12时31分]"
         },
         {
           "title": "美股三大指数小幅收涨",
