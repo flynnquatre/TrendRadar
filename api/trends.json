@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T21:23:01.501448+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2025-12-07T22:14:51.924421+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 22时14分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时14分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
@@ -93,20 +108,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时15分 ~ 17时15分]"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 21时23分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -142,11 +143,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时14分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
@@ -154,11 +156,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时14分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
@@ -166,11 +169,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时14分]"
         },
         {
           "title": "特朗普威胁封锁委领空 马杜罗咋办",
