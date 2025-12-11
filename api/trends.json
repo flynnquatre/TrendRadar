@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T18:20:14.307276+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2025-12-11T19:16:22.762388+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时16分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -162,6 +162,17 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时16分]"
+        },
+        {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
           "url": "https://flash.jin10.com/detail/20251211055914043800",
           "source": "金十数据",
@@ -196,17 +207,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时15分 ~ 11时22分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "美威胁国际刑事法院：不要调查特朗普",
@@ -296,7 +296,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -318,7 +318,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -395,7 +395,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -417,7 +417,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -508,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
@@ -677,8 +688,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时15分 ~ 18时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时15分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -914,7 +925,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
@@ -994,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
+          "url": "https://www.zhihu.com/question/1980552349165564560",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "消息人士：若谷歌不做出更多让步，将面临欧盟罚款",
