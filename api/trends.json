@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T20:34:12.452722+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2025-12-23T21:33:37.253677+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时15分 ~ 20时34分]"
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 21时33分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -51,11 +51,12 @@
             4,
             6,
             11,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时23分 ~ 20时34分]"
+          "appearance_count": 15,
+          "time_info": "[11时23分 ~ 21时33分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -137,6 +138,31 @@
           "time_info": "[13时21分 ~ 18时19分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 21时33分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 21时33分]"
+        },
+        {
           "title": "特朗普提出中美G2概念 日本不安",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
           "source": "百度热搜",
@@ -150,31 +176,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时34分 ~ 17时21分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 20时34分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 20时34分]"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -419,6 +420,18 @@
           "time_info": "[02时24分 ~ 04时18分]"
         },
         {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 21时33分]"
+        },
+        {
           "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
           "url": "https://flash.jin10.com/detail/20251223034156652800",
           "source": "金十数据",
@@ -453,17 +466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时15分]"
-        },
-        {
-          "title": "专家：特朗普战列舰政治意义大于实战",
-          "url": "https://www.toutiao.com/trending/7586991061680000531/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 20时34分]"
         },
         {
           "title": "特朗普的战列舰狂想",
@@ -620,6 +622,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国司法部：爱泼斯坦案文件包含一些针对特朗普的不实指控。",
+          "url": "https://wallstreetcn.com/livenews/3025606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "美国总统特朗普：新的舰艇将“高程度地由人工智能控制”。",
           "url": "https://flash.jin10.com/detail/20251223062302646800",
           "source": "金十数据",
@@ -640,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：核聚变企业高管对特朗普媒体科技集团(DJT.O)表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251223210625693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "特朗普：正在建造三艘大型航空母舰",
@@ -783,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普的“PPT战列舰”有多魔幻",
+          "url": "https://www.toutiao.com/trending/7587001068819582510/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国总统特朗普：将从两艘舰艇开始，将发展到十艘，最终达到20到25艘。",
@@ -1109,7 +1144,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -1137,8 +1172,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 20时34分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 21时33分]"
         },
         {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
@@ -1166,6 +1201,18 @@
           "time_info": "[14时27分 ~ 17时21分]"
         },
         {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 21时33分]"
+        },
+        {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
           "url": "https://flash.jin10.com/detail/20251223020756394800",
           "source": "金十数据",
@@ -1177,18 +1224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时18分]"
-        },
-        {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 20时34分]"
         },
         {
           "title": "金价银价同日创新高",
@@ -1211,12 +1246,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
@@ -1315,6 +1361,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊拉克电力部表示，伊朗天然气供应已完全中断。",
+          "url": "https://flash.jin10.com/detail/20251223205832225800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
@@ -1400,7 +1457,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         }
@@ -1423,8 +1480,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时15分 ~ 20时34分]"
+          "appearance_count": 26,
+          "time_info": "[01时15分 ~ 21时33分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
