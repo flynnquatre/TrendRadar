@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:31:33.713050+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-01-01T22:16:26.943784+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,20 @@
           "time_info": "05时15分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时16分]"
+        },
+        {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
           "url": "https://flash.jin10.com/detail/20260101113737125800",
           "source": "金十数据",
@@ -70,19 +84,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时31分]"
         },
         {
           "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
@@ -257,8 +258,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时23分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时23分 ~ 22时16分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -408,11 +409,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 22时16分]"
         },
         {
           "title": "伊朗总统：伊朗正处于一场全面战争中",
@@ -420,11 +422,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 22时16分]"
         },
         {
           "title": "内塔尼亚胡喊话伊朗",
