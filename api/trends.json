@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:24:51.860420+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-01-27T16:27:29.990562+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -19,27 +19,16 @@
           "time_info": "[00时28分 ~ 07时18分]"
         },
         {
-          "title": "特朗普：提高对韩国关税",
-          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
           "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时27分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -47,6 +36,18 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普：提高对韩国关税",
+          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -62,8 +63,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 16时27分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -88,19 +102,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时28分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 15时24分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -216,11 +217,12 @@
           "source": "微博",
           "ranks": [
             20,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时27分]"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -376,13 +378,25 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时27分]"
+        },
+        {
           "title": "韩国青瓦台：就美国总统特朗普提及的关税一事，正通过多种渠道进行核实。",
           "url": "https://flash.jin10.com/detail/20260127150805425800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -495,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "特朗普施压伊朗",
+          "url": "https://www.douyin.com/hot/2380655",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普：将韩国对等关税从15%提高至25%",
@@ -629,17 +654,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
           "title": "民调：特朗普严打移民 支持率降至低位",
           "url": "https://flash.jin10.com/detail/20260127050316323800",
           "source": "金十数据",
@@ -712,6 +726,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 16时27分]"
+        },
+        {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
@@ -721,17 +747,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 06时18分]"
-        },
-        {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -920,8 +935,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时27分]"
         },
         {
           "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
@@ -1287,8 +1302,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 16时27分]"
         },
         {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
