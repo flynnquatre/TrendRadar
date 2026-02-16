@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T14:04:24.701489+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-02-16T15:51:26.639078+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗外长启程赴会，以总理预设四项条件",
@@ -194,15 +194,48 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 15时51分]"
+        },
+        {
+          "title": "伊朗高官：愿与美国达成为双方带来经济利益的核协议",
+          "url": "https://flash.jin10.com/detail/20260216143137748800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时04分"
+          "time_info": "15时51分"
+        },
+        {
+          "title": "伊朗大秀肌肉回应美国施压",
+          "url": "https://www.toutiao.com/trending/7607336004873096742/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我将与核专家们一起，于周一与国际原子能机构总干事格罗西进行深入的技术探讨。与此同时，周二在与美国进行外交谈判之前，我还将会见阿曼外交大臣。我带着切实可行的方案来到日内瓦，旨在达成公平公正的协议。屈服于威胁的选项不在谈判桌上。",
+          "url": "https://flash.jin10.com/detail/20260216135843569800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -284,6 +317,17 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
+          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "特朗普或支持以色列打击伊朗",
           "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
           "source": "凤凰网",
@@ -351,7 +395,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -387,6 +431,19 @@
           "time_info": "[00时23分 ~ 14时04分]"
         },
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时51分]"
+        },
+        {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
           "url": "https://flash.jin10.com/detail/20260216045621525800",
           "source": "金十数据",
@@ -412,18 +469,6 @@
           "time_info": "[06时19分 ~ 07时21分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时04分]"
-        },
-        {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
           "url": "https://flash.jin10.com/detail/20260216042956745800",
           "source": "金十数据",
@@ -443,7 +488,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
@@ -463,8 +508,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 14时04分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 15时51分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -485,25 +530,36 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260216110854337800",
-          "source": "金十数据",
+          "title": "避险模式！大摩：市场开始买美债了",
+          "url": "https://wallstreetcn.com/articles/3765775",
+          "source": "华尔街见闻",
           "ranks": [
-            25
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "15时51分"
+        },
+        {
+          "title": "大摩：市场开始买美债了",
+          "url": "https://www.toutiao.com/trending/7607327141323083327/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         }
       ]
     },
     {
       "keyword_group": "美股 铜矿 NAK BITF SQQQ NVDY MSOX TSLY BTBT",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
@@ -517,6 +573,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 06时19分]"
+        },
+        {
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260216110854337800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     }
