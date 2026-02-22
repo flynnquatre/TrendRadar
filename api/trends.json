@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T18:21:29.009623+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-02-22T19:18:33.602915+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普的报复来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 19时18分]"
         },
         {
           "title": "释新闻｜美最高法院6比3裁定特朗普全球关税违法，意味着什么？",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 19时18分]"
         },
         {
           "title": "得知高院否决关税那一刻，特朗普“气炸了”，“破口大骂”",
@@ -87,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 18时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 19时18分]"
         },
         {
           "title": "印尼总统：（被问及美国最高法院对特朗普关税的裁决）已准备好应对所有可能性；呼吁尊重美国国内政治。",
@@ -122,6 +122,22 @@
           "time_info": "[00时23分 ~ 16时26分]"
         },
         {
+          "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
+          "url": "https://wallstreetcn.com/articles/3765942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 19时18分]"
+        },
+        {
           "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2008503061484631366",
           "source": "知乎",
@@ -149,24 +165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时28分 ~ 18时21分]"
-        },
-        {
-          "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
-          "url": "https://wallstreetcn.com/articles/3765942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 18时21分]"
+          "appearance_count": 18,
+          "time_info": "[02时28分 ~ 19时18分]"
         },
         {
           "title": "特朗普批准美华盛顿特区灾难声明",
@@ -190,6 +190,24 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时47分 ~ 18时21分]"
+        },
+        {
+          "title": "伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论",
+          "url": "https://wallstreetcn.com/livenews/3057239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            6,
+            7,
+            12,
+            16,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 19时18分]"
         },
         {
           "title": "高院否决，特朗普将被迫退税！华尔街“早就下注”，商务部长儿子甚至一度参与",
@@ -240,23 +258,6 @@
           "time_info": "[00时23分 ~ 03时21分]"
         },
         {
-          "title": "伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论",
-          "url": "https://wallstreetcn.com/livenews/3057239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            6,
-            7,
-            12,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 18时21分]"
-        },
-        {
           "title": "特朗普当天第一条动态用来夸奖支持其关税政策的三名大法官",
           "url": "https://flash.jin10.com/detail/20260221224152170800",
           "source": "金十数据",
@@ -305,29 +306,32 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
-          "title": "美国总统特使：特朗普很好奇伊朗为什么还没有屈服？",
-          "url": "https://flash.jin10.com/detail/20260222171300975800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
-        },
-        {
           "title": "解读特朗普提高全球进口关税",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E9%AB%98%E5%85%A8%E7%90%83%E8%BF%9B%E5%8F%A3%E5%85%B3%E7%A8%8E",
           "source": "bilibili 热搜",
           "ranks": [
             8,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时18分]"
+        },
+        {
+          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
+          "url": "https://wallstreetcn.com/livenews/3057250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时18分]"
         },
         {
           "title": "美媒：特朗普身边几人建议不要轰炸伊朗 参议员格雷厄姆持反对意见",
@@ -344,17 +348,17 @@
           "time_info": "[13时48分 ~ 16时26分]"
         },
         {
-          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
-          "url": "https://wallstreetcn.com/livenews/3057250",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特使：特朗普很好奇伊朗为什么还没有屈服？",
+          "url": "https://flash.jin10.com/detail/20260222171300975800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            5,
-            9
+            2,
+            3,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时21分]"
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "特朗普开始报复了",
@@ -403,15 +407,59 @@
           "time_info": "[12时13分 ~ 16时26分]"
         },
         {
-          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
-          "url": "https://wallstreetcn.com/livenews/3057256",
+          "title": "特朗普：C罗美国需要你",
+          "url": "https://www.douyin.com/hot/2408278",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时41分 ~ 19时18分]"
+        },
+        {
+          "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
+          "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-22）",
+          "url": "https://flash.jin10.com/detail/20260222183803047800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
+          "url": "https://wallstreetcn.com/livenews/3057262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时18分"
+        },
+        {
+          "title": "马克龙请求特朗普解除对欧洲官员的制裁",
+          "url": "https://flash.jin10.com/detail/20260222181520271800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "据AXIOS网站：特朗普团队在与伊朗的谈判中展现出有限的灵活性。",
@@ -482,17 +530,6 @@
           "time_info": "[09时46分 ~ 14时41分]"
         },
         {
-          "title": "特朗普：C罗美国需要你",
-          "url": "https://www.douyin.com/hot/2408278",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时41分 ~ 18时21分]"
-        },
-        {
           "title": "特朗普：“全球进口关税”从10%提高至15%",
           "url": "https://wallstreetcn.com/livenews/3057198",
           "source": "华尔街见闻-快讯",
@@ -503,6 +540,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 09时46分]"
+        },
+        {
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "美总统特朗普称将向格陵兰岛派遣“医院船”",
@@ -611,6 +660,19 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
+          "title": "伊朗国防消息人士：特朗普在西亚的扩张是针对伊朗和阿拉伯国家的“勒索”；伊朗不会陷入漫长且徒劳的谈判进程；如果美国或以色列发动战争，伊朗的反应将是广泛且无限制的。",
+          "url": "https://flash.jin10.com/detail/20260222162245388800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
+        },
+        {
           "title": "特朗普称全球商品关税提高至15%",
           "url": "https://www.douyin.com/hot/2408166",
           "source": "抖音",
@@ -620,18 +682,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "伊朗国防消息人士：特朗普在西亚的扩张是针对伊朗和阿拉伯国家的“勒索”；伊朗不会陷入漫长且徒劳的谈判进程；如果美国或以色列发动战争，伊朗的反应将是广泛且无限制的。",
-          "url": "https://flash.jin10.com/detail/20260222162245388800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
         },
         {
           "title": "特朗普：将全球关税从10%上调到15%",
@@ -644,6 +694,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 12时13分]"
+        },
+        {
+          "title": "特朗普宣布向格陵兰岛派遣“大型医院船”，美媒：持续谋求控制该岛举措",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32642062",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "特朗普第一条动态用来夸奖支持其关税政策的三名大法官",
@@ -666,17 +728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "特朗普宣布向格陵兰岛派遣“大型医院船”，美媒：持续谋求控制该岛举措",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32642062",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "曝特朗普不会去米兰看男子冰球决赛",
@@ -704,8 +755,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 19时18分]"
         },
         {
           "title": "美国伊朗是否会达成协议",
@@ -822,17 +873,6 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
-          "title": "美国总统特使：伊朗可能“大概一周内”就能生产出工业级炸弹",
-          "url": "https://flash.jin10.com/detail/20260222172455189800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -860,28 +900,30 @@
           "time_info": "14时41分"
         },
         {
-          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3057255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "市场消息：伊朗外长阿拉格奇和国际原子能机构总干事格罗西通过电话讨论了美伊谈判。",
           "url": "https://flash.jin10.com/detail/20260222160427817800",
           "source": "金十数据",
           "ranks": [
             5,
             17,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时18分]"
+        },
+        {
+          "title": "美国总统特使：伊朗可能“大概一周内”就能生产出工业级炸弹",
+          "url": "https://flash.jin10.com/detail/20260222172455189800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
@@ -908,15 +950,16 @@
           "time_info": "[07时20分 ~ 09时46分]"
         },
         {
-          "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
-          "url": "https://news.ifeng.com/c/8qwZFHEpvsB",
-          "source": "凤凰网",
+          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3057255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时13分]"
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "持续放风试探，美官员称或对伊朗发动针对特定个人的军事打击",
@@ -928,8 +971,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时18分]"
         },
         {
           "title": "伊朗高级官员：伊朗与美国在制裁减免问题上存在分歧",
@@ -937,11 +980,23 @@
           "source": "金十数据",
           "ranks": [
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
+        },
+        {
+          "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
+          "url": "https://news.ifeng.com/c/8qwZFHEpvsB",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时13分]"
         },
         {
           "title": "伊朗高级官员：美国公司始终可以作为承包商参与伊朗的油气田开发。",
@@ -949,11 +1004,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "伊朗高级官员：伊朗不会将其石油和矿产资源的控制权移交美国。",
@@ -961,11 +1017,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "伊朗高级官员：在《不扩散核武器条约》框架内，伊朗拥有进行铀浓缩活动的权利，这一权利必须得到承认。伊朗与美国将于三月初举行间接会谈，达成临时协议的可能性存在。",
@@ -973,11 +1030,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "伊朗高级官员：伊朗可以认真考虑采取以下措施，即部分出口其高浓缩铀库存，降低其纯度，并与周边国家组建联合组织。",
@@ -985,11 +1043,25 @@
           "source": "金十数据",
           "ranks": [
             10,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
+        },
+        {
+          "title": "伊朗高级官员：伊朗与美国在制裁缓解的范围和机制上存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260222163309848800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
@@ -1002,18 +1074,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 12时13分]"
-        },
-        {
-          "title": "伊朗高级官员：伊朗与美国在制裁缓解的范围和机制上存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260222163309848800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
         },
         {
           "title": "中方送伊朗歼20模型传递何信号",
@@ -1054,8 +1114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 18时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 19时18分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -1079,8 +1139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 18时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 19时18分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -1094,8 +1154,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时41分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时41分 ~ 19时18分]"
         }
       ]
     },
@@ -1118,11 +1178,12 @@
             14,
             13,
             16,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 18时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 19时18分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -1165,8 +1226,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 18时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 19时18分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -1179,8 +1240,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 19时18分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
