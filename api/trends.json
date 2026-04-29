@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T18:53:07.074186+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-04-29T20:14:48.972364+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[03时26分 ~ 16时08分]"
         },
         {
+          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
+          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 20时14分]"
+        },
+        {
           "title": "伊朗“蚊子舰队”如何控制海峡",
           "url": "https://www.toutiao.com/trending/7632881081640976430/",
           "source": "今日头条",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时43分 ~ 10时29分]"
-        },
-        {
-          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
-          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 18时53分]"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -112,11 +112,12 @@
             6,
             16,
             17,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 20时14分]"
         },
         {
           "title": "伊朗警方发现“星链”设备等间谍装备",
@@ -224,7 +225,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -296,8 +297,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时08分 ~ 20时14分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时08分 ~ 18时53分]"
+          "time_info": "[18时52分 ~ 20时14分]"
         },
         {
           "title": "伊朗：美“狂人外交”将世界推向失控",
@@ -332,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 01时44分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "美媒：伊朗或向巴基斯坦提交调整版方案",
@@ -431,7 +432,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -497,7 +498,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -541,7 +542,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
@@ -549,7 +550,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -591,8 +592,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 18时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 20时14分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -602,19 +603,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
-        },
-        {
-          "title": "英国国王给特朗普送了一口钟",
-          "url": "https://www.toutiao.com/trending/7634038550409216027/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 20时14分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -622,6 +612,17 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 20时14分]"
+        },
+        {
+          "title": "英国国王给特朗普送了一口钟",
+          "url": "https://www.toutiao.com/trending/7634038550409216027/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -970,6 +971,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "查尔斯国王给特朗普送了口钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
           "url": "https://flash.jin10.com/detail/20260429023026738800",
           "source": "金十数据",
@@ -1020,7 +1032,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
@@ -1028,7 +1040,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -1038,8 +1050,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 20时14分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -1087,8 +1099,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时52分 ~ 18时53分]"
+          "appearance_count": 9,
+          "time_info": "[06时52分 ~ 20时14分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -1146,8 +1158,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 18时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 20时14分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -1268,6 +1280,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
           "url": "https://wallstreetcn.com/livenews/3095986",
           "source": "华尔街见闻-快讯",
@@ -1354,7 +1377,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
@@ -1366,6 +1389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini在英国推出新的个性化功能。",
+          "url": "https://flash.jin10.com/detail/20260429194814328800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。",
