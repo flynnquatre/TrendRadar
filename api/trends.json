@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T19:26:12.815952+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-04-30T22:06:43.400693+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -62,30 +62,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 19时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 22时06分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
           "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 22时06分]"
         },
         {
           "title": "特朗普放话：伊朗不求饶，海峡不解封",
           "url": "https://news.ifeng.com/c/8sjt504KI9b",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 22时06分]"
         },
         {
           "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
@@ -99,6 +101,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时24分 ~ 19时26分]"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 22时06分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -164,20 +181,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时58分 ~ 07时01分]"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 19时26分]"
         },
         {
           "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
@@ -274,6 +277,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "美媒称特朗普提出建立海上联盟新计划",
+          "url": "https://wallstreetcn.com/livenews/3097557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "特朗普要求以色列总理内塔尼亚胡行事更加谨慎，不要摧毁建筑物，因为这会损害以色列的形象。",
           "url": "https://flash.jin10.com/detail/20260430011544167800",
           "source": "金十数据",
@@ -321,6 +335,19 @@
           "time_info": "[06时01分 ~ 07时01分]"
         },
         {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时09分 ~ 22时06分]"
+        },
+        {
           "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
           "url": "https://www.cls.cn/detail/2360339",
           "source": "财联社热门",
@@ -331,6 +358,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 14时25分]"
+        },
+        {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 22时06分]"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -345,16 +384,16 @@
           "time_info": "[01时23分 ~ 08时01分]"
         },
         {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时09分 ~ 19时26分]"
+          "time_info": "[19时25分 ~ 22时06分]"
         },
         {
           "title": "特朗普：英特尔股价继续上涨。",
@@ -379,17 +418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 11时47分]"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "特朗普称或削减驻德美军",
@@ -426,17 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 11时47分]"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "美媒：特朗普将听取打击伊朗新方案",
@@ -483,6 +500,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "特朗普为何解散美国国家科学委员会",
+          "url": "https://www.toutiao.com/trending/7634518085713530418/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
           "url": "https://www.cls.cn/detail/2360313",
           "source": "财联社热门",
@@ -505,6 +533,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "美媒称特朗普提出建立海上联盟新计划",
+          "url": "https://flash.jin10.com/detail/20260430213732060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "【特朗普：同伊朗的谈判正通过电话进行】美国总统特朗普29日表示，美国同伊朗正在通过电话进行谈判，同时强调伊朗方面必须明确承诺彻底放弃核武器。 特朗普当天在白宫椭圆形办公室对媒体说，美伊一直在进行对话，现在通过电话进行沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。他说，这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。 特朗普说，目前双方谈判已经取得一些进展，但问题是伊朗方面所做让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝无可能达成任何协议。” 伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。白宫新闻秘书莱维特27日证实，特朗普当天召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3096956",
           "source": "华尔街见闻-快讯",
@@ -514,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "美国总统特朗普：美国广播公司ABC何时解雇基梅尔。 美国广播公司ABC最好是尽快解雇基梅尔。",
+          "url": "https://wallstreetcn.com/livenews/3097548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "普京与特朗普通话1个半小时",
@@ -613,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "【普京：特朗普延长对伊朗及周边地区停火的决定是正确的】俄罗斯总统助理乌沙科夫29日晚通报说，俄总统普京与美国总统特朗普当天举行电话会谈，双方就白宫记协晚宴枪击事件、伊朗局势、乌克兰问题等议题交换意见。 据乌沙科夫介绍，特朗普在通话中向普京介绍了他对中东局势的看法。普京认为，特朗普延长对伊朗及周边地区停火的决定是正确的，这将有助于稳定局势。普京还表示，针对伊朗采取地面军事行动的选项是完全不可接受且极其危险的。 乌沙科夫说，此次通话是由俄方发起，持续超过一个半小时，双方对话“坦诚且务实”。（新华社）",
@@ -739,7 +800,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -861,7 +922,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -1026,6 +1087,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "伊朗战争丨穆杰塔巴：伊朗将行使海峡管理权，波斯湾未来没有美国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "伊朗议长回击美国“储油爆炸论”：油价140美元见",
           "url": "https://flash.jin10.com/detail/20260430050825900800",
           "source": "金十数据",
@@ -1054,9 +1126,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：波斯湾安全无需外部势力介入",
+          "url": "https://wallstreetcn.com/livenews/3097545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "白宫高级官员表示，美国寻求没收在海上扣押的与伊朗有关的油轮。",
@@ -1131,7 +1214,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -1164,7 +1247,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -1274,9 +1357,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "欧洲央行维持利率不变 伊朗冲突对经济的冲击仍在发酵",
+          "url": "https://wallstreetcn.com/livenews/3097529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "日本首相高市早苗与伊朗总统通电话。（日本共同社）",
@@ -1285,7 +1379,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         }
@@ -1293,7 +1387,7 @@
     },
     {
       "keyword_group": "美股 铜矿 NAK BITF SQQQ NVDY MSOX TSLY BTBT",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -1328,7 +1422,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -1368,6 +1462,17 @@
           "time_info": "[07时01分 ~ 08时01分]"
         },
         {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "扎克伯格旗下Meta Platforms Inc.一季度营收563.1亿美元，分析师预期555.1亿美元。 一季度APPs Family营收559.1亿美元，分析师预期550亿美元。 一季度Reality Labs营收4.02亿美元，分析师预期5.08亿美元。 预计全年资本开支1250亿-1450亿美元。 预计二季度营收580亿-610亿美元，分析师预期595.6亿美元。 Meta美股盘后跌5.32%。",
           "url": "https://wallstreetcn.com/livenews/3096929",
           "source": "华尔街见闻-快讯",
@@ -1385,7 +1490,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -1445,6 +1550,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3097532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "高通美股盘后涨幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3096946",
           "source": "华尔街见闻-快讯",
@@ -1478,6 +1594,17 @@
           "time_info": "17时09分"
         },
         {
+          "title": "美股开盘，道指涨0.45%，标普500指数涨0.36%，纳指涨0.57%。赫兹(HTZ.O)涨15%，公司与Uber将合作推动自动驾驶出租车及人工驾驶车队运营。Meta Platforms(META.O)跌8.4%，公司提高资本支出展望并提示监管风险。",
+          "url": "https://flash.jin10.com/detail/20260430213129565800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "扎克伯格旗下Meta Platforms Inc.一季度营收563.1亿美元，分析师预期555.1亿美元。 一季度APPs Family营收559.1亿美元，分析师预期550亿美元。 一季度Reality Labs营收4.02亿美元，分析师预期5.08亿美元。 一季度广告营收550.2亿美元，分析师预期541.6亿美元。 一季度实现80.3亿美元所得税红利。 一季度每股收益（EPS）为10.44美元，上年同期6.43美元。 公司继续关注（与儿童隐私等相关的）法律纠纷与监管麻烦。 欧盟市场和美国市场的逆风可能会造成严重后果。 在年轻人相关的问题上面临（监管）审查。 预计全年资本开支1250亿-1450亿美元，公司原本预计1150亿-1350美元。 预计全年总体开支1620亿-1690亿美元，分析师预期1646亿美元。 预计二季度营收580亿-610亿美元，分析师预期595.6亿美元。 Meta美股盘后跌5.32%。",
           "url": "https://wallstreetcn.com/livenews/3096929",
           "source": "华尔街见闻-快讯",
@@ -1492,7 +1619,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1503,8 +1630,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 19时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 22时06分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -1515,8 +1642,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 19时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 22时06分]"
         },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -1575,6 +1702,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时25分 ~ 19时26分]"
+        },
+        {
+          "title": "美股盘初：高通涨约8%，谷歌A涨约7%，Meta跌约8%，礼来涨约7%",
+          "url": "https://wallstreetcn.com/livenews/3097551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
@@ -1641,6 +1779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "谷歌母公司Alphabet一季度财报电话会要点回顾",
+          "url": "https://wallstreetcn.com/livenews/3097555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "谷歌入驻广州天河CBD，预计今年三季度正式投入运营",
@@ -1755,7 +1904,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价",
@@ -1775,11 +1924,12 @@
           "url": "https://www.douyin.com/hot/2482875",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 22时06分]"
         },
         {
           "title": "国际金价继续回撤至4500美元附近",
@@ -1792,6 +1942,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时17分]"
+        },
+        {
+          "title": "金价又起飞了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B5%B7%E9%A3%9E%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     },
@@ -1847,8 +2008,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 19时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时01分 ~ 22时06分]"
         }
       ]
     }
