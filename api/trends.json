@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T18:51:59.656620+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-05-28T22:34:50.006774+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -31,6 +31,20 @@
           "time_info": "[10时40分 ~ 18时51分]"
         },
         {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 22时34分]"
+        },
+        {
           "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
           "url": "https://www.cls.cn/detail/2383563",
           "source": "财联社热门",
@@ -41,19 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 18时51分]"
         },
         {
           "title": "伊朗将浓缩铀运往中俄？特朗普回应",
@@ -191,6 +192,17 @@
           "time_info": "[05时49分 ~ 07时13分]"
         },
         {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 22时34分]"
+        },
+        {
           "title": "“不在乎中期选举”，特朗普称美伊协议须“完美”，仍欲捆绑“亚伯拉罕协议”",
           "url": "https://wallstreetcn.com/livenews/3110269",
           "source": "华尔街见闻-快讯",
@@ -239,17 +251,6 @@
           "time_info": "[05时49分 ~ 07时13分]"
         },
         {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "美国总统特朗普：我们得到了其他国家的巨大支持。",
           "url": "https://flash.jin10.com/detail/20260528000605525800",
           "source": "金十数据",
@@ -270,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：伊朗以为他们能拖住我，但事实并非如此。",
@@ -338,6 +350,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国官员：美伊就谅解备忘录达成一致，但仍需特朗普最终批准",
+          "url": "https://flash.jin10.com/detail/20260528221738265800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "白宫：美国与伊朗的谈判推进得不错，总统特朗普已经清晰地划定“红线”。",
           "url": "https://wallstreetcn.com/livenews/3110176",
           "source": "华尔街见闻-快讯",
@@ -382,6 +405,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "据AXIOS网站：两名美国官员表示，美国和伊朗谈判代表已就一项为期60天的谅解备忘录达成一致，以延长停火并启动关于伊朗核计划的谈判，但特朗普总统尚未给予最终批准。",
+          "url": "https://flash.jin10.com/detail/20260528221435055800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "据美国公共电视网 (PBS)：美国总统特朗普称，沙特应该加入亚伯拉罕协议。",
           "url": "https://flash.jin10.com/detail/20260527234721424800",
           "source": "金十数据",
@@ -424,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普制定新规则以解决意外医疗账单的仲裁问题。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3110796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "白宫：（就伊朗问题）谈判进展顺利，特朗普已明确划定红线。",
@@ -506,7 +551,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -625,6 +670,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "伊朗说“亚伯拉罕协议”加剧地区不安全",
+          "url": "https://wallstreetcn.com/livenews/3110814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "当地居民称，伊朗南部阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260528063440282800",
           "source": "金十数据",
@@ -642,7 +698,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -698,11 +754,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 22时34分]"
         },
         {
           "title": "伊朗对美国空军基地实施打击",
@@ -758,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "白宫否认伊媒曝光草案，标普转跌，鲁比奥称给伊朗谈判“一切成功的机会”，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3773277",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "据伊朗学生通讯社：伊斯法罕国际机场在停运80天后将全面恢复运营。",
@@ -881,6 +949,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "美国纽约联储主席威廉姆斯：若没有人工智能方面的投资，美国的需求将会减弱。 美国劳动力市场整体表现相当不错。 不认为人工智能会导致长期的结构性失业。 伊朗冲突对通货膨胀的影响可能在几个月内达到峰值。 美国劳动力市场“相当平衡”。 伊朗冲突造成的供应链中断令人担忧。 美联储的货币政策略显紧缩。 更有效的沟通有助于政策的实施效果。",
+          "url": "https://wallstreetcn.com/livenews/3110786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "伊朗媒体称美军袭击阿巴斯港周围焦土，未造成损失",
           "url": "https://wallstreetcn.com/livenews/3110343",
           "source": "华尔街见闻-快讯",
@@ -906,8 +985,20 @@
     },
     {
       "keyword_group": "美股 铜矿 NAK BITF SQQQ NVDY MSOX TSLY BTBT",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 22时34分]"
+        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -919,18 +1010,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 05时49分]"
-        },
-        {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 18时51分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -1003,6 +1082,28 @@
           "time_info": "[05时49分 ~ 07时13分]"
         },
         {
+          "title": "报道称伊朗与美国达成协议，油价、美元下跌，欧美股市一度走高",
+          "url": "https://wallstreetcn.com/livenews/3110810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "Nebius Group NV美股盘后涨14%，Situational Awareness报告称对该公司持股。",
           "url": "https://wallstreetcn.com/livenews/3110281",
           "source": "华尔街见闻-快讯",
@@ -1053,7 +1154,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1064,9 +1165,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF涨超1%，能源业ETF涨近1%，全球航空业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3110793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美股盘初：三大指数涨跌不一，Snowflake涨约33%，理想汽车跌约2%",
+          "url": "https://wallstreetcn.com/livenews/3110789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
@@ -1086,6 +1209,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 22时34分]"
+        },
+        {
           "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
           "url": "https://flash.jin10.com/detail/20260528141552137800",
           "source": "金十数据",
@@ -1097,24 +1232,13 @@
           "time_info": "14时51分"
         },
         {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "美伊局势生变推升通胀担忧，金价一度创近两个月新低",
           "url": "https://flash.jin10.com/detail/20260528183927079800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1125,7 +1249,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1144,7 +1268,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
@@ -1170,6 +1294,17 @@
           "time_info": "[10时40分 ~ 14时51分]"
         },
         {
+          "title": "美债继续上涨；10年期收益率跌5个基点至4.43%。",
+          "url": "https://flash.jin10.com/detail/20260528221804770800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
           "url": "https://wallstreetcn.com/livenews/3110178",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1319,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
@@ -1196,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "Gemini联合SpaceX和xAI推出Command Center（指挥中心）。这是一项个性化的市场信息流（Market Feed）。",
+          "url": "https://wallstreetcn.com/livenews/3110808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     }
