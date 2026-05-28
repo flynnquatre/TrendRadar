@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T10:40:21.147926+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-05-28T14:51:26.354493+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -19,6 +19,41 @@
           "time_info": "[00时34分 ~ 07时13分]"
         },
         {
+          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
+          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时51分]"
+        },
+        {
+          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
+          "url": "https://www.cls.cn/detail/2383563",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时51分]"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUQKRTEeEB",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时51分]"
+        },
+        {
           "title": "美国总统特朗普：将立法，使面向未来的数字资产市场结构（监管框架）法典化。",
           "url": "https://wallstreetcn.com/livenews/3110293",
           "source": "华尔街见闻-快讯",
@@ -28,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
-          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -80,7 +104,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -94,17 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
-          "url": "https://news.ifeng.com/c/8tUQKRTEeEB",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "美国总统特朗普：昨晚的初步结果是“中期选举的序幕”。",
@@ -129,15 +142,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
-          "url": "https://www.cls.cn/detail/2383563",
-          "source": "财联社热门",
+          "title": "特朗普对华尔街日报再次提起索赔100亿美元的诉讼",
+          "url": "https://wallstreetcn.com/livenews/3110519",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "14时51分"
         },
         {
           "title": "特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁",
@@ -161,6 +174,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时51分]"
         },
         {
           "title": "“不在乎中期选举”，特朗普称美伊协议须“完美”，仍欲捆绑“亚伯拉罕协议”",
@@ -286,17 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "美国总统特朗普：伊朗协议尚未达成。伊朗决心达成协议。我们对此不满意。",
@@ -426,7 +440,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -478,7 +492,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -534,8 +548,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 10时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 14时51分]"
         },
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
@@ -543,22 +557,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 10时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 14时51分]"
         },
         {
           "title": "伊朗先发制人了",
           "url": "https://news.ifeng.com/c/8tUFuNsH8BY",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时51分]"
         },
         {
           "title": "伊朗阿巴斯港发生爆炸 防空系统启动数分钟",
@@ -611,7 +627,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -622,7 +638,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -639,6 +655,18 @@
           "time_info": "[00时34分 ~ 07时13分]"
         },
         {
+          "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2043104464907629617",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时51分]"
+        },
+        {
           "title": "美军事力量将撤出伊朗周边",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E4%BA%8B%E5%8A%9B%E9%87%8F%E5%B0%86%E6%92%A4%E5%87%BA%E4%BC%8A%E6%9C%97%E5%91%A8%E8%BE%B9%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -650,24 +678,13 @@
           "time_info": "[00时34分 ~ 00时35分]"
         },
         {
-          "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2043104464907629617",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "美国伊朗开始爆发直接冲突",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E7%88%86%E5%8F%91%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -678,7 +695,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -689,7 +706,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -703,6 +720,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "伊朗：美国必须给所有被冻结的伊朗资产解冻。",
+          "url": "https://wallstreetcn.com/livenews/3110500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "伊朗外长和新西兰外长通话",
@@ -722,7 +772,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -733,9 +783,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗官员：伊朗被冻结资产必须被无条件释放",
+          "url": "https://wallstreetcn.com/livenews/3110493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "伊朗南部发生能源设施装置事故致1死2伤",
@@ -760,13 +821,35 @@
           "time_info": "00时35分"
         },
         {
+          "title": "伊朗官员：伊朗被冻结资产必须被无条件释放",
+          "url": "https://flash.jin10.com/detail/20260528134018224800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "伊朗总统：伊朗和巴基斯坦领导人讨论了旨在结束战争的外交努力。 巴基斯坦希望当前外交努力能尽快取得最终结果。",
+          "url": "https://wallstreetcn.com/livenews/3110484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "美联储古尔斯比：伊朗战争致能源通胀持续 亚洲面临滞胀冲击",
           "url": "https://flash.jin10.com/detail/20260528101843141800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -777,7 +860,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -788,7 +871,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
@@ -811,6 +894,17 @@
           "time_info": "[00时34分 ~ 05时49分]"
         },
         {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时51分]"
+        },
+        {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2383334",
           "source": "财联社热门",
@@ -821,17 +915,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 10时40分]"
-        },
-        {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
@@ -853,8 +936,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 14时51分]"
         },
         {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
@@ -968,11 +1051,12 @@
           "url": "https://wallstreetcn.com/articles/3773219",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时51分]"
         },
         {
           "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
@@ -984,6 +1068,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
+          "url": "https://flash.jin10.com/detail/20260528141552137800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "金十图示：2026年05月28日（周四）上海金早盘价为963.14元/克，较国际金价(960.44元/克)，高2.7元/克",
+          "url": "https://flash.jin10.com/detail/20260528101910816800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     },
@@ -1001,23 +1113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年05月28日（周四）上海金早盘价为963.14元/克，较国际金价(960.44元/克)，高2.7元/克",
-          "url": "https://flash.jin10.com/detail/20260528101910816800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         }
       ]
     }
