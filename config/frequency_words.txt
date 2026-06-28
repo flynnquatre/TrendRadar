@@ -5,28 +5,64 @@ gemini
 chatgpt
 openai
 
-金价
+Anthropic
+Claude
 
-黄金
-+价格
+Obsidian
 
-美债
+个人知识库
 
-美股
-铜矿
-NAK
-BITF
-SQQQ
-NVDY
-MSOX
-TSLY
-BTBT
-+美股
+哲学
 
-美元
-+指数
+个人主体性
 
-特朗普
+神经美学
+neuroaesthetics
 
-伊朗
+艺术与心理健康
+艺术疗愈
+
+策展
+curation
+
+认知科学
+cognitive science
+神经科学
+
+行为科学
+behavioral economics
+
+心灵哲学
+philosophy of mind
+
+意识研究
+consciousness
+
+Stoicism
+structuralism
+existentialism
+philosophy of technology
+ethics of AI
+
+decision making
+cognitive bias
+attention economy
+mental models
+
+
+storytelling
+narrative structure
+language and thought
+writing process
+
+personal knowledge management
+PKM
+second brain
+note taking
+
+museum exhibition
+art history
+cultural policy
+digital humanities
+civilization
 
