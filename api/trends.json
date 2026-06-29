@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T15:26:51.625665+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-06-29T20:27:11.930683+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,40 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 15时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "博思艾伦（Booz Allen）与OpenAI达成合作，将部署可直接投入任务的人工智能。",
+          "url": "https://flash.jin10.com/detail/20260629200055025800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Politico：美国加州州长纽森与Anthropic达成协议，，以扩大人工智能在政府部门的应用。",
+          "url": "https://flash.jin10.com/detail/20260629200312516800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
