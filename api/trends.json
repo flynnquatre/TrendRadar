@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T18:53:33.016185+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-06-30T21:08:47.639084+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 18时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 21时08分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
