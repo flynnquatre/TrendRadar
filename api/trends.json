@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T20:32:47.160761+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-07-01T23:38:31.755133+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 23时38分]"
         },
         {
           "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 23时38分]"
         },
         {
           "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
@@ -103,7 +103,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -188,7 +188,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -200,6 +200,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时14分]"
+        },
+        {
+          "title": "谷歌云确认在荷兰数据保护影响评估获得批准后，将为欧盟公共部门组织提供更安全的选择。",
+          "url": "https://flash.jin10.com/detail/20260701231456267800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
