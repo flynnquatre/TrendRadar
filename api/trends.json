@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T01:50:40.196154+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T03:46:13.521353+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 03时46分]"
         },
         {
           "title": "美国对Anthropic的Mythos模型设限，外国企业陷入不确定状态",
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/livenews/3127564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 03时46分]"
         }
       ]
     }
