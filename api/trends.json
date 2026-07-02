@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-07-02T18:03:23.567227+08:00",
-  "total_titles_processed": 1105,
-  "failed_sources": [
-    "bilibili-hot-search",
-    "jin10",
-    "douyin"
-  ],
+  "generated_at": "2026-07-02T20:08:20.967547+08:00",
+  "total_titles_processed": 1266,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
