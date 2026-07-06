@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-07-06T22:23:23.210829+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-07-07T01:39:41.441341+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "Anthropic Claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
+          "title": "Anthropic已于6月10日写信给美国参议院民主党成员Warren和国会议员Scott。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3129490",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            3,
-            5
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 13时07分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     }
