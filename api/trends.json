@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T02:59:16.767023+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-07-08T04:50:47.359795+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Anthropic：Claude CoWork投放到移动端和网页。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "Anthropic计划在美国曼哈顿扩张，纽约市员工规模将翻倍至1000人。 计划在Hudson Square租赁16层楼高的建筑物。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3130172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
@@ -44,8 +55,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
+          "url": "https://wallstreetcn.com/livenews/3130159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
         {
           "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
           "url": "https://wallstreetcn.com/livenews/3130107",
@@ -53,7 +75,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -70,7 +92,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
