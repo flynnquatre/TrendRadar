@@ -1,50 +1,44 @@
 {
-  "generated_at": "2026-07-07T21:15:39.910686+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-07-08T00:25:54.020045+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "Claude被封 天才程序员陨落",
-          "url": "https://s.weibo.com/weibo?q=Claude%E8%A2%AB%E5%B0%81%20%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "Anthropic：Claude CoWork投放到移动端和网页。",
+          "url": "https://wallstreetcn.com/livenews/3130092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
+          "url": "https://flash.jin10.com/detail/20260708000001537800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "00时25分"
         },
         {
-          "title": "Anthropic已于6月10日写信给美国参议院民主党成员Warren和国会议员Scott。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3129490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260707024555773800",
+          "title": "Anthropic：Claude Cowork将登陆移动端和网页。",
+          "url": "https://flash.jin10.com/detail/20260707235927623800",
           "source": "金十数据",
           "ranks": [
-            11
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "00时25分"
         }
       ]
     }
