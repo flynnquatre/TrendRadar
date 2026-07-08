@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T03:16:54.399425+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-07-09T05:02:12.678290+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 05时02分]"
         },
         {
           "title": "OpenAI推出GPT-Live语音模型",
@@ -59,7 +60,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
@@ -78,8 +79,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 05时02分]"
         }
       ]
     }
