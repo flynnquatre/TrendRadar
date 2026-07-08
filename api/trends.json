@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-09T05:02:12.678290+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-07-09T06:14:33.572126+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时14分]"
+        },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
           "url": "https://flash.jin10.com/detail/20260709010430451800",
@@ -41,19 +54,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时02分]"
-        },
-        {
           "title": "OpenAI推出GPT-Live语音模型",
           "url": "https://wallstreetcn.com/livenews/3130838",
           "source": "华尔街见闻-快讯",
@@ -76,11 +76,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时14分]"
         }
       ]
     }
