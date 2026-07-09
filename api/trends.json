@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T16:28:50.198034+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-07-09T19:53:08.114914+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
@@ -96,7 +96,7 @@
     },
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时24分 ~ 12时47分]"
+        },
+        {
+          "title": "Anthropic在二级市场的估值已飙升至1.2万亿美元",
+          "url": "https://flash.jin10.com/detail/20260709193202601800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     }
