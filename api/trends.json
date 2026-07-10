@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T10:29:01.030244+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-07-10T14:41:03.482795+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时41分]"
         },
         {
           "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
