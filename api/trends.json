@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T18:19:49.608370+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-07-10T21:08:50.276925+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 21时08分]"
         },
         {
           "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
