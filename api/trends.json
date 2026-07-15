@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T07:48:34.151072+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-07-15T09:54:10.044903+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
@@ -56,6 +56,17 @@
           "time_info": "[05时53分 ~ 06时53分]"
         },
         {
+          "title": "ChatGPT出现故障",
+          "url": "https://www.baidu.com/s?wd=ChatGPT%E5%87%BA%E7%8E%B0%E6%95%85%E9%9A%9C",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
           "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
           "url": "https://flash.jin10.com/detail/20260715050136121800",
           "source": "金十数据",
@@ -73,7 +84,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
