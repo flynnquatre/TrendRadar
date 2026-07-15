@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T06:54:51.490057+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-07-16T07:55:36.147125+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -60,7 +60,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         }
@@ -68,7 +68,7 @@
     },
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
@@ -81,8 +81,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时55分]"
+        },
+        {
+          "title": "据The Information：Anthropic正就在IPO前增加25亿美元的银行信贷额度进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260716070929444800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
