@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T09:54:10.044903+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-15T12:48:04.169587+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 03时11分]"
+        },
+        {
+          "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
+          "url": "https://www.cls.cn/detail/2426550",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 12时48分]"
         },
         {
           "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
