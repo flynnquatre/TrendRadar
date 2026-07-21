@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T06:51:04.594797+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-07-22T07:53:20.139882+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时53分]"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -80,7 +80,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -179,11 +179,12 @@
           "url": "https://www.zhihu.com/question/2061356466783642903",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 06时51分]"
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 07时53分]"
         }
       ]
     }
