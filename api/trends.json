@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T07:56:03.774670+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-07-24T10:08:33.338181+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 10时08分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -104,7 +105,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
