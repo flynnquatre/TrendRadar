@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:49:33.904909+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-07-26T07:56:26.587608+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 07时56分]"
         },
         {
           "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时49分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时56分]"
         }
       ]
     },
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时56分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
