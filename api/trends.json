@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T21:12:54.505695+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-07-25T22:59:41.816724+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时39分 ~ 21时12分]"
+          "appearance_count": 10,
+          "time_info": "[13时39分 ~ 22时59分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时39分 ~ 21时12分]"
+          "appearance_count": 10,
+          "time_info": "[13时39分 ~ 22时59分]"
         },
         {
           "title": "如何评价 Anthropic 发布的 Claude Opus 5？",
