@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T16:17:10.027137+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-07-26T18:40:54.725453+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
+          "url": "https://flash.jin10.com/detail/20260726111836175800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Anthropic Claude",
       "match_count": 2,
       "titles": [
@@ -69,8 +108,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 18时40分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -82,23 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
-          "url": "https://flash.jin10.com/detail/20260726111836175800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         }
       ]
     }
