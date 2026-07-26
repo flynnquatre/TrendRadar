@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T21:26:05.039739+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-07-26T23:02:17.536756+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -110,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 21时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 23时02分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
