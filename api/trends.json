@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T19:59:41.502365+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-07-26T21:26:05.039739+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 21时26分]"
         },
         {
           "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
@@ -109,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 19时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 21时26分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
