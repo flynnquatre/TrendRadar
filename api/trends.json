@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T10:01:58.589921+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-07-28T13:22:43.891525+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 10时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 13时22分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
