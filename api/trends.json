@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T13:35:11.560906+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-07-30T16:14:54.664103+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 16时14分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
