@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T20:00:21.029656+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-08-01T21:27:51.040633+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时57分 ~ 20时00分]"
+          "appearance_count": 9,
+          "time_info": "[07时57分 ~ 21时27分]"
         },
         {
           "title": "如何评价OpenAI的数学能力",
