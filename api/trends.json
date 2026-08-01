@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T22:56:09.410959+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-08-01T23:58:07.983346+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时59分 ~ 20时00分]"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
         },
         {
           "title": "美媒：OpenAI筹备发布新模型系列Astra，主打多智能体长周期任务协同",
