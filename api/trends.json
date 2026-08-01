@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T16:11:40.044249+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-08-01T18:36:49.662935+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 16时11分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 18时36分]"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -185,7 +186,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
