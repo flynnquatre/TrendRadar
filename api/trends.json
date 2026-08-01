@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-01T13:51:07.177179+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-08-01T16:11:40.044249+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 11,
       "titles": [
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时11分]"
+        },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://flash.jin10.com/detail/20260801052034583800",
@@ -18,19 +32,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时57分]"
-        },
-        {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 13时51分]"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -140,6 +141,57 @@
       ]
     },
     {
+      "keyword_group": "Anthropic Claude",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
+          "url": "https://www.zhihu.com/question/2066465758503252393",
+          "source": "知乎",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时11分]"
+        },
+        {
+          "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
+          "url": "https://www.zhihu.com/question/2065499504187371980",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 06时07分]"
+        },
+        {
+          "title": "怎么看 Anthropic 公布的 Claude 也发生了沙箱逃逸，真实入侵了三家组织的事？",
+          "url": "https://www.zhihu.com/question/2066465758503252393",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "头部AI再失控 Claude黑进三家公司",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8AI%E5%86%8D%E5%A4%B1%E6%8E%A7+Claude%E9%BB%91%E8%BF%9B%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -177,45 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
-          "url": "https://www.zhihu.com/question/2066465758503252393",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时51分]"
-        },
-        {
-          "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
-          "url": "https://www.zhihu.com/question/2065499504187371980",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 06时07分]"
-        },
-        {
-          "title": "怎么看 Anthropic 公布的 Claude 也发生了沙箱逃逸，真实入侵了三家组织的事？",
-          "url": "https://www.zhihu.com/question/2066465758503252393",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         }
       ]
     }
