@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T13:51:58.413963+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-08-02T16:13:26.498166+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 16时13分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -29,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 13时51分]"
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 16时13分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
