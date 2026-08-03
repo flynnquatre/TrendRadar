@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T18:37:39.115823+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-08-03T21:36:48.551691+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -27,9 +27,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 21时36分]"
         },
         {
           "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
@@ -38,7 +38,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
@@ -48,6 +48,17 @@
       "keyword_group": "Anthropic Claude",
       "match_count": 3,
       "titles": [
+        {
+          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
+          "url": "https://wallstreetcn.com/articles/3778546",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 21时36分]"
+        },
         {
           "title": "如何看待 Anthropic 的 ARR 增速开始放缓？",
           "url": "https://www.zhihu.com/question/2066099059375301622",
@@ -61,26 +72,16 @@
           "time_info": "[07时54分 ~ 10时13分]"
         },
         {
-          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
-          "url": "https://wallstreetcn.com/articles/3778546",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
           "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
           "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 21时36分]"
         }
       ]
     },
