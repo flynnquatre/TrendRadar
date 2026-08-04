@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T03:24:31.323549+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-08-05T05:06:32.906214+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 05时06分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -33,8 +33,19 @@
     },
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Anthropic再豪掷100亿美元锁定算力，英伟达支持的新贵接单",
+          "url": "https://wallstreetcn.com/articles/3778669",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
         {
           "title": "Anthropic发言人：任命Mariano-Florentino Cuéllar为首任全球事务主管。",
           "url": "https://flash.jin10.com/detail/20260805005019828800",
