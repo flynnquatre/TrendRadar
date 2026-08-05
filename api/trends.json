@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T10:57:03.977031+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-08-05T13:42:42.898278+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时40分 ~ 10时57分]"
+        },
+        {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -68,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时06分 ~ 10时57分]"
+          "appearance_count": 7,
+          "time_info": "[05时06分 ~ 13时42分]"
         },
         {
           "title": "Anthropic发言人：任命Mariano-Florentino Cuéllar为首任全球事务主管。",
