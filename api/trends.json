@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T19:16:38.459679+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-08-06T21:52:06.862792+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 03时22分]"
+        },
+        {
+          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
+          "url": "https://www.zhihu.com/question/2068498722300990537",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
         },
         {
           "title": "谷歌首席科学家Jeff Dean离职创业",
