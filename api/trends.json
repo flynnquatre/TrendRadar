@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T03:49:20.684849+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-08-08T04:35:27.910016+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时35分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
