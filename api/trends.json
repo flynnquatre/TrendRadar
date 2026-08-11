@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:08:16.980387+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-08-11T17:56:11.046534+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -213,8 +213,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 16时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 17时56分]"
         },
         {
           "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
