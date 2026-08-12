@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T06:35:21.169305+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-08-13T07:36:01.418464+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时59分]"
+        },
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
