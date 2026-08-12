@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T07:34:37.971662+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-08-12T09:23:10.369894+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -145,7 +145,7 @@
     },
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
@@ -158,8 +158,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 09时23分]"
+        },
+        {
+          "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
+          "url": "https://www.zhihu.com/question/2070443311802867884",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
         },
         {
           "title": "Anthropic将向EROCK采购约470兆瓦电力设备。",
