@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T20:58:01.148451+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-08-13T23:55:09.887515+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -165,8 +165,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时58分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时58分 ~ 23时55分]"
         },
         {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
