@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T19:52:58.815517+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-08-14T20:54:28.981531+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 20时54分]"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
