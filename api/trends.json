@@ -1,55 +1,70 @@
 {
-  "generated_at": "2026-08-15T06:17:50.730381+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-08-15T08:55:09.445947+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
         {
           "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
           "url": "https://wallstreetcn.com/livenews/3149891",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 08时55分]"
         },
         {
           "title": "Anthropic公司在IPO前夕，初步预测2026年第二季度营收将超过115亿美元。",
           "url": "https://wallstreetcn.com/livenews/3149888",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 08时55分]"
         },
         {
           "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
           "url": "https://flash.jin10.com/detail/20260815053103557800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 08时55分]"
         },
         {
           "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
           "url": "https://flash.jin10.com/detail/20260815051457331800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 08时55分]"
         }
       ]
     },
@@ -85,7 +100,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
@@ -95,8 +110,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 08时55分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     }
