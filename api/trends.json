@@ -1,82 +1,11 @@
 {
-  "generated_at": "2026-08-16T16:22:31.344102+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-08-16T17:22:51.156339+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时22分 ~ 16时22分]"
-        },
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时21分 ~ 16时22分]"
-        },
-        {
-          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
-          "url": "https://wallstreetcn.com/livenews/3150021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            16,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时21分 ~ 16时22分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 16时22分]"
-        },
-        {
-          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
-          "url": "https://flash.jin10.com/detail/20260816043254635800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -86,11 +15,24 @@
             3,
             8,
             11,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 16时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时22分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时22分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -106,15 +48,15 @@
           "time_info": "[13时23分 ~ 15时26分]"
         },
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
@@ -126,6 +68,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时22分 ~ 17时22分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 17时22分]"
+        },
+        {
+          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3150021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            16,
+            19,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 17时22分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时22分]"
+        },
+        {
+          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
+          "url": "https://flash.jin10.com/detail/20260816043254635800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
@@ -144,20 +159,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时22分 ~ 16时22分]"
-        },
-        {
-          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
-          "url": "https://www.zhihu.com/question/2071916942760342436",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时22分 ~ 17时22分]"
         },
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -165,11 +168,25 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时22分]"
+        },
+        {
+          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
+          "url": "https://www.zhihu.com/question/2071916942760342436",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 17时22分]"
         },
         {
           "title": "Anthropic二季度营收同比暴涨1400%",
