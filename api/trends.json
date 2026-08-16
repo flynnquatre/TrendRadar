@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T17:22:51.156339+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-08-16T19:16:02.822180+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             11,
             16,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时16分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -28,11 +29,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时16分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -54,9 +56,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时16分]"
         },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
@@ -85,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时22分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[02时22分 ~ 19时16分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -99,8 +101,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时21分 ~ 19时16分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 19时16分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -117,19 +133,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时21分 ~ 17时22分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 17时22分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -159,8 +162,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时22分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[02时22分 ~ 19时16分]"
         },
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -169,11 +172,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时16分]"
         },
         {
           "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
@@ -182,11 +186,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 19时16分]"
         },
         {
           "title": "Anthropic二季度营收同比暴涨1400%",
