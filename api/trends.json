@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T19:16:02.822180+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-08-16T20:28:32.162794+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,24 @@
           "ranks": [
             9,
             8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 20时28分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时28分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -48,17 +61,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 15时26分]"
-        },
-        {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时16分]"
         },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
@@ -87,8 +89,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时22分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[02时22分 ~ 20时28分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -101,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 20时28分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -112,11 +114,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 20时28分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -162,8 +165,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时22分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[02时22分 ~ 20时28分]"
         },
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -173,11 +176,12 @@
             8,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 20时28分]"
         },
         {
           "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
