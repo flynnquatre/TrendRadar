@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-18T08:54:51.834371+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-08-18T12:31:09.645045+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI锁定4.25GW数据中心容量",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+          "url": "https://www.cls.cn/detail/2456537",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        }
+      ]
+    },
     {
       "keyword_group": "Anthropic Claude",
       "match_count": 1,
@@ -12,11 +40,12 @@
           "url": "https://www.cls.cn/detail/2456549",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 12时31分]"
         }
       ]
     }
