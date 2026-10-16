@@ -1,55 +1,50 @@
 {
-  "generated_at": "2026-08-19T15:36:02.586163+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-10-17T03:13:45.866815+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "Anthropic Claude",
+      "match_count": 2,
       "titles": [
         {
-          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
-          "url": "https://wallstreetcn.com/articles/3779748",
+          "title": "Anthropic与美国纽约市审计长建立沟通渠道，后者之前呼吁推迟IPO",
+          "url": "https://wallstreetcn.com/livenews/3180428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元",
+          "url": "https://wallstreetcn.com/articles/3783736",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
-        },
-        {
-          "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
-          "url": "https://www.zhihu.com/question/14194805205",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
-        },
-        {
-          "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
-          "url": "https://wallstreetcn.com/livenews/3151282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时40分"
-        },
+          "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "哲学",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
-          "url": "https://wallstreetcn.com/livenews/3151272",
-          "source": "华尔街见闻-快讯",
+          "title": "最后的采访｜哲学家楼宇烈：在中国传统中，寻找时代困境的解法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34255069",
+          "source": "澎湃新闻",
           "ranks": [
-            30
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时40分"
+          "time_info": "03时13分"
         }
       ]
     }
