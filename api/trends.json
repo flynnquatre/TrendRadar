@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T05:22:03.067105+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-10-18T07:44:16.148519+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时44分]"
         },
         {
           "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
@@ -27,19 +27,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时44分]"
         },
         {
           "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
           "url": "https://wallstreetcn.com/articles/3783838",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时44分]"
         },
         {
           "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
@@ -49,19 +50,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时44分]"
         },
         {
           "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
           "url": "https://wallstreetcn.com/livenews/3180569",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 07时44分]"
         }
       ]
     },
