@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T08:59:17.037723+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-10-17T13:22:45.269000+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Anthropic据悉为600亿美元芯片融资向黑石提供逾10%收益率",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -87,13 +87,24 @@
           "time_info": "03时13分"
         },
         {
+          "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
+          "url": "https://www.cls.cn/detail/2507401",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "报道：Anthropic向美国议员推介AI安全方案，拟为模型发布设置门槛",
           "url": "https://wallstreetcn.com/livenews/3180495",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         }
@@ -156,7 +167,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
