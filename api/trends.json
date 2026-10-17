@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T18:02:10.107003+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-10-17T21:36:31.423614+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "Claude专封国人,二创人设变腹黑",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 21时36分]"
         },
         {
           "title": "Anthropic据悉为600亿美元芯片融资向黑石提供逾10%收益率",
@@ -69,11 +69,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 21时36分]"
         },
         {
           "title": "Anthropic签署租约，租用位于新斯科舍省的Everwind数据中心。",
@@ -99,6 +100,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
+          "url": "https://wallstreetcn.com/articles/3783831",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元",
           "url": "https://wallstreetcn.com/articles/3783736",
           "source": "华尔街见闻",
@@ -110,13 +122,24 @@
           "time_info": "03时13分"
         },
         {
+          "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3180569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "Anthropic联合创始人：AI或大幅推高美国GDP至44万亿美元",
           "url": "https://flash.jin10.com/detail/20261017171958720800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -127,7 +150,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -149,7 +172,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -160,7 +183,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
