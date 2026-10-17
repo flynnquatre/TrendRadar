@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T03:01:36.908254+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-10-18T05:22:03.067105+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 05时22分]"
         },
         {
           "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
           "url": "https://wallstreetcn.com/articles/3783831",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 05时22分]"
         },
         {
           "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 05时22分]"
         },
         {
           "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
@@ -48,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 05时22分]"
         },
         {
           "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
@@ -59,8 +60,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 05时22分]"
         }
       ]
     },
@@ -75,7 +76,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
