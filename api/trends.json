@@ -1,105 +1,22 @@
 {
-  "generated_at": "2026-10-18T20:24:34.415887+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-10-19T00:20:19.927093+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
-          "url": "https://wallstreetcn.com/articles/3783838",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 15时43分]"
-        },
         {
           "title": "Claude专封国人,二创人设变腹黑",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470&amp;topic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91",
           "source": "贴吧",
           "ranks": [
-            5,
-            6,
-            7,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 20时24分]"
-        },
-        {
-          "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
-          "url": "https://wallstreetcn.com/articles/3783831",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 10时39分]"
-        },
-        {
-          "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
-          "url": "https://www.cls.cn/detail/2507401",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 10时39分]"
-        },
-        {
-          "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3180569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 07时44分]"
-        },
-        {
-          "title": "Anthropic据悉探讨AI智能体谈判规则，正寻求法律界建议",
-          "url": "https://flash.jin10.com/detail/20261018124048318800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国总统特朗普：（谈及谷歌）谷歌在我第一任期时根本不会接我的电话。现在他们却在巴结我。",
-          "url": "https://flash.jin10.com/detail/20261018024119256800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "00时20分"
         }
       ]
     }
