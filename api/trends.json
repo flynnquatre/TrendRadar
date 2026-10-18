@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T07:44:16.148519+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-10-18T10:39:15.252371+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,30 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "Claude专封国人,二创人设变腹黑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470&amp;topic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 07时44分]"
-        },
-        {
           "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
           "url": "https://wallstreetcn.com/articles/3783831",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时39分]"
+        },
+        {
+          "title": "Claude专封国人,二创人设变腹黑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470&amp;topic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时39分]"
         },
         {
           "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
@@ -36,22 +39,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时39分]"
         },
         {
           "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
           "url": "https://www.cls.cn/detail/2507401",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时39分]"
         },
         {
           "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
