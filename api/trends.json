@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T00:20:19.927093+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-19T03:12:29.700652+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "Claude专封国人,二创人设变腹黑",
@@ -15,8 +15,41 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 03时12分]"
+        },
+        {
+          "title": "Anthropic设立公益基金，计划将约20%股份用于公益事业",
+          "url": "https://flash.jin10.com/detail/20261019021456470800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "03时12分"
+        },
+        {
+          "title": "市场消息：Anthropic承诺将5%的股份捐赠给公益基金，并承诺公司估值每上涨50%，额外增加2%的股份捐赠。",
+          "url": "https://flash.jin10.com/detail/20261019020958684800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "如何看待 anthropic 取消 git？",
+          "url": "https://www.zhihu.com/question/2094352602074965020",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     }
