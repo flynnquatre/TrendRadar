@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T15:43:08.873322+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-10-18T20:24:34.415887+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             5,
             6,
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 15时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 20时24分]"
         },
         {
           "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
@@ -79,7 +80,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
