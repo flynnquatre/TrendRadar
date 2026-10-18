@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-10-18T10:39:15.252371+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-10-18T15:43:08.873322+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
-          "url": "https://wallstreetcn.com/articles/3783831",
+          "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
+          "url": "https://wallstreetcn.com/articles/3783838",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            4
+            9,
+            8,
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 15时43分]"
         },
         {
           "title": "Claude专封国人,二创人设变腹黑",
@@ -27,20 +28,21 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 15时43分]"
         },
         {
-          "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
-          "url": "https://wallstreetcn.com/articles/3783838",
+          "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
+          "url": "https://wallstreetcn.com/articles/3783831",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            5
+            7,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -69,6 +71,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 07时44分]"
+        },
+        {
+          "title": "Anthropic据悉探讨AI智能体谈判规则，正寻求法律界建议",
+          "url": "https://flash.jin10.com/detail/20261018124048318800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     },
