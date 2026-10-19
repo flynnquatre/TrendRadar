@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T06:11:52.921055+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-10-19T08:43:14.424444+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470&amp;topic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 06时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 08时43分]"
         },
         {
           "title": "如何看待 anthropic 取消 git？",
@@ -51,6 +52,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
+          "url": "https://www.zhihu.com/question/2094251044960211894",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 08时43分]"
         }
       ]
     }
