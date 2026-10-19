@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T08:43:14.424444+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-10-19T13:37:14.058705+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Claude专封国人,二创人设变腹黑",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 08时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 13时37分]"
         },
         {
           "title": "如何看待 anthropic 取消 git？",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 06时11分]"
+        },
+        {
+          "title": "Anthropic IPO前夕设立千亿公益基金：划出5%股份应对AI社会风险",
+          "url": "https://www.cls.cn/detail/2507837",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
         },
         {
           "title": "Anthropic设立公益基金，计划将约20%股份用于公益事业",
@@ -57,7 +69,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
@@ -69,6 +81,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时42分 ~ 08时43分]"
+        },
+        {
+          "title": "谷歌将 TPU AI 芯片送入太空，每次执行约 15 分钟运算，之后必须暂停散热，太空算力中心前景如何？",
+          "url": "https://www.zhihu.com/question/2094251044960211894",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
         }
       ]
     }
