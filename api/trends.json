@@ -1,97 +1,22 @@
 {
-  "generated_at": "2026-10-19T19:52:08.815381+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-10-20T02:11:46.431521+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "Anthropic Claude",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Claude专封国人,二创人设变腹黑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470&amp;topic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 13时37分]"
-        },
-        {
-          "title": "如何看待 anthropic 取消 git？",
-          "url": "https://www.zhihu.com/question/2094352602074965020",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 06时11分]"
-        },
-        {
-          "title": "Anthropic IPO前夕设立千亿公益基金：划出5%股份应对AI社会风险",
-          "url": "https://www.cls.cn/detail/2507837",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
-        },
-        {
-          "title": "Anthropic设立公益基金，计划将约20%股份用于公益事业",
-          "url": "https://flash.jin10.com/detail/20261019021456470800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "市场消息：Anthropic承诺将5%的股份捐赠给公益基金，并承诺公司估值每上涨50%，额外增加2%的股份捐赠。",
-          "url": "https://flash.jin10.com/detail/20261019020958684800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
-          "url": "https://www.zhihu.com/question/2094251044960211894",
-          "source": "知乎",
+          "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
+          "url": "https://wallstreetcn.com/livenews/3181344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
-        },
-        {
-          "title": "谷歌将 TPU AI 芯片送入太空，每次执行约 15 分钟运算，之后必须暂停散热，太空算力中心前景如何？",
-          "url": "https://www.zhihu.com/question/2094251044960211894",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
+          "appearance_count": 1,
+          "time_info": "02时11分"
         }
       ]
     }
