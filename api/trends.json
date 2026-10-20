@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T02:15:47.743071+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-21T06:01:57.424508+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 06时01分]"
+        },
+        {
+          "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
+          "url": "https://flash.jin10.com/detail/20261021054329265800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "06时01分"
         },
         {
           "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
