@@ -1,47 +1,8 @@
 {
-  "generated_at": "2026-10-20T21:14:02.974284+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-10-21T02:15:47.743071+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)前首席执行官埃里克·施密特在Anthropic公司拥有约1%的股份。",
-          "url": "https://flash.jin10.com/detail/20261020053341203800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "原谷歌CEO Eric Schmidt对Anthropic持股大约1%。",
-          "url": "https://wallstreetcn.com/livenews/3181434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
-          "url": "https://wallstreetcn.com/livenews/3181344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        }
-      ]
-    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
@@ -54,58 +15,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
-          "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
-          "url": "https://www.cls.cn/detail/2509215",
-          "source": "财联社热门",
+          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
+          "url": "https://wallstreetcn.com/livenews/3182087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "据Axios：OpenAI收购生物医疗公司Orchestra Bio。",
+          "url": "https://flash.jin10.com/detail/20261021015825860800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
-          "title": "报道：OpenAI计划在Anthropic上市前加快融资步伐",
-          "url": "https://wallstreetcn.com/livenews/3181474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic据称洽谈450亿美元算力交易 Nscale或再添上市筹码",
-          "url": "https://www.cls.cn/detail/2509091",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 15时02分]"
-        },
-        {
-          "title": "Fable 5.5要来了？报道称Anthropic正开发新模型，主打\"意图推断\"能力",
-          "url": "https://wallstreetcn.com/articles/3783964",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
+          "time_info": "02时15分"
         }
       ]
     }
