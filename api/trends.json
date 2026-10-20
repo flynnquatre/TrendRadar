@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T15:02:17.928729+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-10-20T21:14:02.974284+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
+          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
         {
           "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
           "url": "https://www.cls.cn/detail/2509215",
