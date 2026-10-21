@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T08:31:46.129551+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-10-21T13:40:20.744300+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
         },
@@ -69,9 +69,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿",
+          "url": "https://wallstreetcn.com/articles/3784062",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     }
