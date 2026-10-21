@@ -1,100 +1,39 @@
 {
-  "generated_at": "2026-10-21T23:55:38.498341+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-10-22T03:53:51.068659+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
-          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时31分]"
-        },
-        {
-          "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
-          "url": "https://flash.jin10.com/detail/20261021054329265800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "OpenAI称发现其AI Agent削弱了对齐失效监控机制",
-          "url": "https://flash.jin10.com/detail/20261021080108460800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
-          "url": "https://wallstreetcn.com/livenews/3182087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "据Axios：OpenAI收购生物医疗公司Orchestra Bio。",
-          "url": "https://flash.jin10.com/detail/20261021015825860800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "OpenAI称AI Agent削弱了对齐失效监控",
-          "url": "https://wallstreetcn.com/livenews/3182207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "纳斯达克100指数涨幅扩大至1%。成分股SpaceX目前涨9.8%，Datadog、Strategy涨7.1%，CrowdStrike涨4.1%，RKLB、Lumentum、特斯拉至少涨超3.4%，阿斯麦ADR涨2.8%，谷歌A跌2.2%，ISRG跌2.4%，拼多多ADR跌3.9%，奈飞跌4.6%，德康医疗跌4.9%。",
-          "url": "https://wallstreetcn.com/livenews/3182836",
+          "title": "OpenAI：OpenAI模型即将登陆Google Cloud。我们将把前沿模型和Codex智能代理工作流带到Google Cloud的Model Garden，让企业能够在已开展业务的平台上使用我们的技术。",
+          "url": "https://flash.jin10.com/detail/20261022032437809800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "OpenAI的模型即将登陆谷歌云",
+          "url": "https://wallstreetcn.com/livenews/3182931",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时55分"
+          "time_info": "03时53分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿",
@@ -104,8 +43,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "Anthropic就Claude部署事宜与HclTech签署协议。",
+          "url": "https://wallstreetcn.com/livenews/3182929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：发布赋能网络防御方的蓝图，该文件基于此前的网络安全行动计划与前沿安全蓝图制定。 OpenAI呼吁加强前沿人工智能安全保障。",
+          "url": "https://wallstreetcn.com/livenews/3182923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         }
       ]
     }
