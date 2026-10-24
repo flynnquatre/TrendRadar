@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T02:33:05.160964+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-25T05:24:09.015925+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -15,8 +15,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 05时24分]"
+        },
+        {
+          "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
+          "url": "https://www.zhihu.com/question/2097291551575749628",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "time_info": "[05时23分 ~ 05时24分]"
         }
       ]
     }
