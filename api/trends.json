@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T19:49:01.831074+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-10-24T23:15:56.582621+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+          "url": "https://www.cls.cn/detail/2514203",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "OpenAI在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。 公司于10月1日恢复了前沿模型强化学习训练及内部推理工作。 已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。 开展前沿模型训练时应断开互联网连接，这是负责任的做法。 已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
