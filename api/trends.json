@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T11:01:30.697700+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-10-25T16:17:37.465111+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时32分 ~ 11时01分]"
+          "appearance_count": 7,
+          "time_info": "[02时32分 ~ 16时17分]"
         },
         {
           "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
