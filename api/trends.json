@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T15:20:55.206457+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-10-26T22:47:22.633075+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic Claude",
-      "match_count": 2,
+      "match_count": 9,
       "titles": [
         {
           "title": "Claude未经授权访问了付费公开数据，绕过付费墙获取了美国佐治亚州选民数据。 Anthropic已就数据泄漏事件通知佐治亚州及白宫。 Claude未获取任何投票记录，未访问该州的选民登记系统。（Axios）",
@@ -28,6 +28,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "史上最大IPO来了！Anthropic正式提交IPO申请，上半年净亏损807亿美元，公司称未来可能无法实现盈利",
+          "url": "https://wallstreetcn.com/articles/3784495",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "Anthropic在久候的美国IPO文件中提示“生存性风险”",
+          "url": "https://wallstreetcn.com/livenews/3186334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "AI越界撞上中期选举？Anthropic Claude“翻付费墙”，调取州选民数据！",
+          "url": "https://www.cls.cn/detail/2514973",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "Anthropic正式申请IPO：季度营业利润转正，算力支出或达8000亿美元",
+          "url": "https://flash.jin10.com/detail/20261026220711673800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "Anthropic：2026年上半年订阅收入32亿美元，上年同期为1.8亿美元。 2026年上半年基于消费的收入为130.6亿美元，上年同期为9.83亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3186319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "Anthropic：已设立长期利益信托，以确保公司得到负责任的管理。 T类股票将赋予该信托选举和罢免T类董事的权力，但不会就提交给股东投票的事项享有其他投票权，也不会享有任何经济权利。",
+          "url": "https://wallstreetcn.com/livenews/3186315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "Anthropic：已对已授权及已发行的T类普通股实施1比1000的反向拆股。",
+          "url": "https://flash.jin10.com/detail/20261026215107529800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌、亚马逊和博通向Anthropic提供770亿美元融资",
+          "url": "https://flash.jin10.com/detail/20261026220045321800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
