@@ -1,250 +1,33 @@
 {
-  "generated_at": "2026-10-28T21:47:00.830388+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-10-29T03:16:21.176904+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "Anthropic Claude",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 05时43分]"
-        },
-        {
-          "title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”",
-          "url": "https://wallstreetcn.com/articles/3784495",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "Anthropic选择摩根大通牵头其IPO的美国零售配售部分。 Anthropic已选择花旗负责其IPO的国际零售配售。 Anthropic正在考虑将其IPO中15%至20%的份额面向零售投资者发售。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3187999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
-          "url": "https://wallstreetcn.com/articles/3784524",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 08时54分]"
-        },
-        {
-          "title": "Anthropic招股书里最值得看的14个细节",
-          "url": "https://wallstreetcn.com/articles/3784522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 08时54分]"
-        },
-        {
-          "title": "融资能力无敌！Anthropic手握1317亿美元现金，超英伟达苹果总和",
-          "url": "https://www.cls.cn/detail/2517255",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "Anthropic：收购Mithril Medicine，以开展罕见病项目。 希望与尽可能多的研究人员分享。 期待与更多机构合作。 随着药物项目推进，计划继续将Claude的应用范围拓展至临床试验领域。 希望与药物研发研究人员共享模型。",
-          "url": "https://wallstreetcn.com/livenews/3187910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "Anthropic研究员给全球博士生泼冷水",
-          "url": "https://www.toutiao.com/trending/7701288531939508287/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "摩根大通资管旗下55ip与Anthropic合作，在Claude中为理财顾问提供税务优化技术。",
-          "url": "https://wallstreetcn.com/livenews/3187828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)：推出支持原生音频的Genie 4世界模型。",
-          "url": "https://flash.jin10.com/detail/20261028014147010800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "谷歌Genie 4亮相：一句话创造虚拟世界、敲键盘自由探索",
-          "url": "https://www.cls.cn/detail/2517161",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 14时33分]"
-        },
-        {
-          "title": "谷歌推出最强世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成，游戏股再迎AI冲击",
-          "url": "https://wallstreetcn.com/articles/3784604",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 21时47分]"
-        },
-        {
-          "title": "OpenAI计划采购谷歌的人工智能芯片。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3187984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "谷歌推出最强世界模型Genie 4",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BA%E6%9C%80%E5%BC%BA%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8BGenie+4",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "谷歌升级曾经撼动游戏股的AI世界模型",
-          "url": "https://wallstreetcn.com/livenews/3187827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
-          "url": "https://www.zhihu.com/question/2096860633161545316",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 05时43分]"
-        },
-        {
-          "title": "31岁女生按ChatGPT指示减药后去世",
-          "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8C%89ChatGPT%E6%8C%87%E7%A4%BA%E5%87%8F%E8%8D%AF%E5%90%8E%E5%8E%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 21时47分]"
-        },
         {
           "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
           "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
           "source": "澎湃新闻",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 21时47分]"
-        },
-        {
-          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-          "url": "https://www.zhihu.com/question/2098331248469062137",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 05时43分]"
-        },
-        {
-          "title": "如何评价 OpenAI 公布调和分析四大猜想的证明？这套证明的突破在哪里？",
-          "url": "https://www.zhihu.com/question/2098323920147559381",
-          "source": "知乎",
-          "ranks": [
-            16
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "03时16分"
+        },
+        {
+          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
+          "url": "https://www.cls.cn/detail/2518311",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     }
