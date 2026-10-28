@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T14:33:31.498059+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-10-28T21:47:00.830388+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -74,7 +74,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -115,7 +115,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：推出支持原生音频的Genie 4世界模型。",
@@ -139,6 +139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 14时33分]"
+        },
+        {
+          "title": "谷歌推出最强世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成，游戏股再迎AI冲击",
+          "url": "https://wallstreetcn.com/articles/3784604",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "OpenAI计划采购谷歌的人工智能芯片。（The Information）",
@@ -177,7 +188,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
@@ -190,6 +201,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 05时43分]"
+        },
+        {
+          "title": "31岁女生按ChatGPT指示减药后去世",
+          "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8C%89ChatGPT%E6%8C%87%E7%A4%BA%E5%87%8F%E8%8D%AF%E5%90%8E%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
