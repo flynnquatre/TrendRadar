@@ -1,44 +1,69 @@
 {
-  "generated_at": "2026-10-29T07:49:21.965509+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-10-29T11:57:43.327967+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
           "url": "https://www.cls.cn/detail/2518583",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时57分]"
         },
         {
           "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
           "url": "https://wallstreetcn.com/articles/3784634",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时57分]"
         },
         {
           "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3784714",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时57分]"
+        },
+        {
+          "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+          "url": "https://www.cls.cn/detail/2518619",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
+          "url": "https://wallstreetcn.com/articles/3784718",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "11时57分"
         },
         {
           "title": "10月成谷歌财报“重灾月”：史上最惨三个交易日有两次在10月",
@@ -47,7 +72,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -58,15 +83,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？",
+          "url": "https://www.zhihu.com/question/2098949045934880103",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
@@ -77,8 +113,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 11时57分]"
+        },
+        {
+          "title": "OpenAI将整合Chat与Work",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%B0%86%E6%95%B4%E5%90%88Chat%E4%B8%8EWork",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
@@ -104,7 +151,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         }
