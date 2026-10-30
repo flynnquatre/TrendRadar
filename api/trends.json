@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T00:28:08.630406+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-31T05:20:00.957303+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 05时20分]"
+        },
+        {
+          "title": "亚马逊自由现金流「烧穿了」，谷歌的利润下降了，英特尔营收展望不及预期，三件事放一起看能说明什么？",
+          "url": "https://www.zhihu.com/question/2099444454088078280",
+          "source": "知乎",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "轮番“历史性暴跌”！谷歌的病，亚马逊也得了",
@@ -26,19 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "亚马逊自由现金流「烧穿了」，谷歌的利润下降了，英特尔营收展望不及预期，三件事放一起看能说明什么？",
-          "url": "https://www.zhihu.com/question/2099444454088078280",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 05时20分]"
         }
       ]
     },
@@ -53,7 +54,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
         },
@@ -64,7 +65,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
         },
@@ -75,7 +76,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
         }
